@@ -44,15 +44,4 @@ score = get_score(args.answer, args.result ,target = args.target)
 #オフセットズレの確認をする場合
 score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plane_path = args.text)
 ~~~
-answer : 正答(w)
-## Pythonモジュールとして呼び出すan
-## Pythonモジュールとして呼び出すn
-## Pythonモジュールとして呼び出すra
-## Pythonモジュールとして呼び出すi
-## Pythonモジュールとして呼び出すn
-## Pythonモジュールとして呼び出すa
-## Pythonモジュールとして呼び出すwe
-## Pythonモジュールとして呼び出すi
-## Pythonモジュールとして呼び出すl
-## Pythonモジュールとして呼び出すu
-## Pythonモジュールとして呼び出す
+answer : 正答(
