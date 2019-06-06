@@ -316,5 +316,3 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plane_path = args.text, error_path = args.error, score_path = args.score)
-    #lines = get_annotation("/home/kota/Python/DATASET/SHINRA/2019/annotation/airport_dist.json")
-    #score, error = get_score(lines, lines, html_path = "/data/g-liat/nakayama/DATASET/shinra2019/html/airport", plane_path = "/data/g-liat/nakayama/DATASET/shinra2019/plane/airport")
