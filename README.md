@@ -33,7 +33,7 @@ python3 scoring.py dataset/Airport_Mini_Answer.json \
                    --score score
 ~~~
 
-
+  
 ## Pythonモジュールとして呼び出す
 ~~~Python
 import score
@@ -44,4 +44,8 @@ score = get_score(args.answer, args.result ,target = args.target)
 #オフセットズレの確認をする場合
 score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plane_path = args.text)
 ~~~
-answer : 正答(ワンライナーjson
+answer : 正答ワンライナーjsonのパス(listとして読み込んだデータでも可)
+result : システム結果ワンライナーjsonのパス(listとして読み込んだデータでも可)
+target : 採点対象のpage_idを列挙したcsvファイルのパス(listでも可)
+error : エラーファイルを書き出すフォルダパス
+score : スコアを書き出すフォルダパス
