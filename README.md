@@ -5,8 +5,8 @@
 (全カテゴリーの同時採点は今後の実装予定とします。)
 オプションを指定することでオフセットずれの確認もできます。
 
-システム結果内のhtml_offset/text_offsetの存在する方で採点を行います。
-両方存在する場合は両方で採点を行います。
+html_offset/text_offsetのそれぞれで採点を行います。
+どちらかのみでの採点を行いたい場合には、html_offset/text_offsetの必要な方のみをシステム結果に記載してください。
 
 ## 使い方
 ~~~bash
@@ -44,4 +44,4 @@ score = get_score(args.answer, args.result ,target = args.target)
 #オフセットズレの確認をする場合
 score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plane_path = args.text)
 ~~~
-answer : 正答(
+answer : 正答(ワンライナーjson
