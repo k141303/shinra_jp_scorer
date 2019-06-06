@@ -47,5 +47,5 @@ score, error = get_score(args.answer, args.result, target = args.target, html_pa
 answer : 正答ワンライナーjsonのパス(listとして読み込んだデータでも可)  
 result : システム結果ワンライナーjsonのパス(listとして読み込んだデータでも可)  
 target : 採点対象のpage_idを列挙したcsvファイルのパス(listでも可)  
-html_path : htmlファイルが格納されたフォルダのパス
+html_path : htmlファイルが格納されたフォルダのパス  
 text_path : textファイルが格納されたフォルダのパス
