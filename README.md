@@ -1,13 +1,17 @@
 # shinra_scorer_2019
 森羅プロジェクト2019用のスコアラーです。
 
-カテゴリー毎の採点ができます。
+カテゴリー毎に採点ができます。
+(全カテゴリーの同時採点は今後の実装予定とします。)
 オプションを指定することでオフセットずれの確認もできます。
+
+システム結果内のhtml_offset/text_offsetの存在する方で採点を行います。
+両方存在する場合は両方で採点を行います。
 
 ## 使い方
 ~~~bash
-python3 scoring.py [正答のパス] \
-                   [システム結果のパス]
+python3 scoring.py [正答のワンライナーjsonのパス] \
+                   [システム結果のワンライナーjsonのパス]
 ~~~
 以下はオプション引数
 ~~~
@@ -18,6 +22,7 @@ python3 scoring.py [正答のパス] \
 --score [スコアを書き出すフォルダパス](スコアを書き出したい場合に指定)
 ~~~
 こんな感じです。
+dataset下にデータが用意してあります。実行してみてください。
 ~~~bash
 python3 scoring.py dataset/Airport_Mini_Answer.json \
                    dataset/Airport_Dummy_Result.json \
@@ -27,3 +32,27 @@ python3 scoring.py dataset/Airport_Mini_Answer.json \
                    --error error \
                    --score score
 ~~~
+
+
+## Pythonモジュールとして呼び出す
+~~~Python
+import score
+
+#オフセットズレの確認をしない場合
+score = get_score(args.answer, args.result ,target = args.target)
+
+#オフセットズレの確認をする場合
+score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plane_path = args.text)
+~~~
+answer : 正答(w)
+## Pythonモジュールとして呼び出すan
+## Pythonモジュールとして呼び出すn
+## Pythonモジュールとして呼び出すra
+## Pythonモジュールとして呼び出すi
+## Pythonモジュールとして呼び出すn
+## Pythonモジュールとして呼び出すa
+## Pythonモジュールとして呼び出すwe
+## Pythonモジュールとして呼び出すi
+## Pythonモジュールとして呼び出すl
+## Pythonモジュールとして呼び出すu
+## Pythonモジュールとして呼び出す
