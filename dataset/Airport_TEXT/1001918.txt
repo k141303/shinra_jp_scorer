@@ -1,0 +1,239 @@
+
+
+
+
+ハミルトン・ジョン・C・マンロ国際空港 - Wikipedia Dump 20171103
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ハミルトン・ジョン・C・マンロ国際空港","wgTitle":"ハミルトン・ジョン・C・マンロ国際空港","wgCurRevisionId":618320,"wgRevisionId":618320,"wgArticleId":618318,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchiveテンプレートのウェイバックリンク","壊れたファイルへのリンクがあるページ","ウィキデータにない座標","オンタリオ州の空港","人名空港","空港スタブ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"ハミルトン・ジョン・C・マンロ国際空港","wgRelevantArticleId":618318,"wgRequestId":"9f7a0b62a3f603bb50afc59a","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@13mv994",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","wikibase.ui.entitysearch","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+						
+
+			ハミルトン・ジョン・C・マンロ国際空港
+									
+									出典: フリー百科事典『ウィキペディア（Wikipedia）』
+								
+												
+					移動先:					案内、					検索
+				
+				
+
+
+ 曖昧さ回避
+
+ この項目では、カナダの空港について説明しています。ニュージーランドの空港については「ハミルトン国際空港」をご覧ください。
+
+
+ハミルトン・ジョン・C・マンロ国際空港John C. Munro Hamilton International Airport 
+300px
+IATA: YHM - ICAO: CYHM概要国・地域
+カナダの旗 カナダ所在地
+オンタリオ州ハミルトン種類
+公共用所有者
+ハミルトン市運営者
+Tradeport International Corp.標高
+238 m座標
+北緯43度10分25秒 西経79度56分06秒 / 北緯43.17361度 西経79.93500度 / 43.17361; -79.93500座標: 北緯43度10分25秒 西経79度56分06秒 / 北緯43.17361度 西経79.93500度 / 43.17361; -79.93500致命的なエラー: The format of the coordinate could not be determined. Parsing failed.ウェブサイト
+www.flyhamilton.ca地図
+オンタリオ州の位置図CYHMCYHMオンタリオ州の位置図滑走路
+
+
+ 方向
+ 長さ (m)
+ 表面
+
+
+ 06/24
+ 1,832
+ アスファルト
+
+
+ 12/30
+ 3,050
+ アスファルト
+
+
+
+
+
+
+
+統計 (2012年)旅客数
+351,491人発着回数
+35,296回
+出典: Canada Flight Supplement[1]カナダ環境省[2]発着回数はカナダ統計局より[3]旅客数は国際空港評議会より[4]リスト
+空港の一覧テンプレートを表示
+ハミルトン・ジョン・C・マンロ国際空港（英語：Hamilton John C. Munro International Airport）はカナダのオンタリオ州南西部に位置するハミルトンにある国際空港である。単にジョン・C・マンロ国際空港またはハミルトン国際空港とも呼ぶ。ハミルトン市街地から約11km南西に位置する。
+大型ジェット機が利用できる空港として設計されており、トロント・ピアソン国際空港の非常時代替空港としての役割も持つ。トロント市街地からは約90kmの位置にある。
+カナダ軍用機歴史博物館が空港敷地内にある。
+2000年にウエストジェット航空が東部カナダへの足がかりとして、ハミルトン空港を東部ハブとして進出しカナダ全国規模の航空会社となったが、2004年には東部ハブをトロント・ピアソン国際空港へ変更。その後進出したキャンジェット航空もエアカナダ・ジャズとの競合を避けて大幅縮小。2007年にはそのエアカナダ・ジャズも撤退するなど、現在は旅客便は定期便1社、チャーター便2社のみの運行となっている。
+
+航空会社
+ ウエストジェット航空（カルガリー）
+ キャンジェット航空（カヨココ、オルギン）
+ フライセントラル・ヨーロッパ・ドットコム（ブダペスト、クラカウ、プラハ）：エア・イタリーが運営
+脚注
+[ヘルプ]
+
+^ Canada Flight Supplement. Effective 0901Z 24 July 2014 to 0901Z 18 September 2014
+
+^ Synoptic/Metstat Station Information
+
+^ Total aircraft movements by class of operation — NAV CANADA towers
+
+^ Airport Traffic Reports Archived 2008年2月8日, at the Wayback Machine.
+
+
+外部リンク
+ ジョン・C・マンロ・ハミルトン国際空港公式サイト （英語）
+表話編歴空港情報 (ICAO：CYHM)空港概要
+ worldaerodata.com
+ Great Circle Mapper
+ FlightAware
+ SkyVector気象情報
+ 定時航空気象 (METAR)
+ 飛行用飛行場予報 (TAF)
+ 定時航空気象 (NOAA/NWS)その他
+ 航空図 (SkyVector)
+ 航空便追跡 (FlightAware)
+
+執筆の途中です
+この項目は、空港・飛行場に関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ポータル 航空 / プロジェクト 航空 / プロジェクト 空港・飛行場）。
+
+
+
+
+
+
+					
+						「http://139.59.90.173/index.php?title=ハミルトン・ジョン・C・マンロ国際空港&oldid=618320」から取得					
+				カテゴリ: Webarchiveテンプレートのウェイバックリンク壊れたファイルへのリンクがあるページウィキデータにない座標オンタリオ州の空港人名空港空港スタブ				
+							
+		
+		
+			案内メニュー
+
+			
+									
+						個人用ツール
+						
+							ログイン						
+					
+									
+										
+						名前空間
+						
+															ページ
+															ノート
+													
+					
+										
+												
+							変種
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						表示
+						
+															閲覧
+															ソースを表示
+															履歴表示
+													
+					
+										
+						その他
+
+						
+							
+															
+						
+					
+										
+						
+							検索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			案内
+
+			
+									
+						メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)					
+							
+		
+			
+			ヘルプ
+
+			
+									
+						ヘルプ井戸端お知らせバグの報告sitesupportウィキペディアに関するお問い合わせ					
+							
+		
+			
+			ツール
+
+			
+									
+						リンク元関連ページの更新状況特別ページ印刷用バージョンこの版への固定リンクページ情報このページを引用					
+							
+		
+			
+			他言語版
+
+			
+									
+											
+				リンクを追加			
+		
+				
+		
+		
+							
+											 最終更新 2017年9月16日 (土) 12:22 （日時は個人設定で未設定ならばUTC）。
+									
+							
+											プライバシー・ポリシー
+											ウィキペディアについて
+											免責事項
+									
+										
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.411","walltime":"3.904","ppvisitednodes":{"value":1260,"limit":1000000},"ppgeneratednodes":{"value":14192,"limit":1000000},"postexpandincludesize":{"value":51105,"limit":2097152},"templateargumentsize":{"value":2232,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"entityaccesscount":{"value":0,"limit":250},"timingprofile":["100.00% 2946.061      1 -total"," 57.61% 1697.266      1 テンプレート:Infobox_空港"," 51.03% 1503.378      1 テンプレート:Infobox"," 24.06%  708.918      1 テンプレート:Airport-info"," 23.98%  706.485      1 テンプレート:Navbox"," 20.85%  614.196     12 テンプレート:Ifempty","  8.72%  256.859      1 テンプレート:En_icon","  8.25%  243.022      1 テンプレート:Location_map","  7.30%  215.158      1 テンプレート:Languageicon","  6.73%  198.328      1 テンプレート:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7.000"},"limitreport-virtmemusage":{"value":10399744,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180702192600","ttl":86400,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":5411});});
+	
+

@@ -1,0 +1,339 @@
+
+
+
+
+ウンベルト・デルガード空港 - Wikipedia Dump 20171103
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ウンベルト・デルガード空港","wgTitle":"ウンベルト・デルガード空港","wgCurRevisionId":600898,"wgRevisionId":600898,"wgArticleId":600897,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["壊れたファイルへのリンクがあるページ","ウィキデータにない座標","空港スタブ","ポルトガルの空港","リスボンの交通","人名空港"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"ウンベルト・デルガード空港","wgRelevantArticleId":600897,"wgRequestId":"c548e521940233ef7d2326eb","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@13mv994",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","wikibase.ui.entitysearch","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+						
+
+			ウンベルト・デルガード空港
+									
+									出典: フリー百科事典『ウィキペディア（Wikipedia）』
+								
+												
+					移動先:					案内、					検索
+				
+				リスボン・ウンベルト・デルガード空港 Aeroporto Humberto Delgado Lisbon Humberto Delgado Airport 
+200px
+IATA: LIS - ICAO: LPPT概要国・地域
+ポルトガルの旗 ポルトガル所在地
+リスボン種類
+公共所有者
+ポルトガル政府運営者
+ANA – Aeroportos de Portugal拠点航空会社
+
+イージージェット （2012年4月より[1]）
+ポルトガリア航空
+SATAインターナショナル航空（English版）
+TAP ポルトガル航空
+ホワイト・エアウェイズ
+標高
+114 m (374 ft)座標
+北緯38度46分27秒 西経009度08分03秒 / 北緯38.77417度 西経9.13417度 / 38.77417; -9.13417座標: 北緯38度46分27秒 西経009度08分03秒 / 北緯38.77417度 西経9.13417度 / 38.77417; -9.13417致命的なエラー: The format of the coordinate could not be determined. Parsing failed.ウェブサイト
+www.ana.pt地図
+空港の位置（ポルトガル）LIS/LPPTLIS/LPPT空港の位置（ポルトガル）滑走路
+
+
+ 方向
+ ILS
+ 長さ×幅 (m)
+ 表面
+
+
+ 03/21
+ YES
+ 3,805×45
+ 舗装
+
+
+ 17/35
+ NO
+ 2,304×45
+ 舗装
+
+
+
+
+
+
+
+統計 (2011)旅客数
+14,805,624発着回数
+143,331
+出典：ポルトガル AIP at 欧州航空航法安全機構[2]リスト
+空港の一覧テンプレートを表示
+ウンベルト・デルガード空港（ポルトガル語: Aeroporto Humberto Delgado）は、ポルトガルの首都リスボンにある国際空港。TAP ポルトガル航空及びポルトガリア航空の本拠地である。正式名称は「リスボン空港（Aeroporto de Lisboa）」[3]。
+この空港は1942年10月15日に開業し、第二次大戦中、ドイツとイギリスの航空会社両方に使用されていた。2007年8月1日にターミナル2が作られた。各ターミナル間は無料のシャトルバスが運行されている。
+2016年5月15日に反サラザール派の将軍であったウンベルト・デルガードに因んで、リスボン・ウンベルト・デルガード空港に改称した[4]。
+リスボン市域の北端にあり、市街地と近接しているためアクセスは良好である反面、南側からのアプローチの場合は市街地の直上を通ることになるため、騒音が激しい。
+
+目次
+
+1 ターミナル
+
+1.1 ターミナル1
+1.2 ターミナル2
+1.3 貨物便
+
+
+2 空港アクセス
+
+2.1 地下鉄
+2.2 バス
+
+
+3 脚注
+4 外部リンク
+
+
+
+ターミナル
+ファイル:Lisbon Airport Arrivals 2008.jpg  ポルテラ空港の到着エリア
+ファイル:AIRBUS A319 TAP LIS 20081003.JPG  TAP ポルトガル航空のエアバスA319-100
+ファイル:Aigle Azur Airbus A321-211; F-HBAF@LIS;10.07.2011 605ik (5939877756).jpg  エーグル・アズールのエアバスA321-200
+ファイル:TAAG 777-200ER.JPG  TAAGアンゴラ航空のボーイング777-200ER
+ファイル:Airbus A340-312, TAP Portugal AN1593861.jpg  離陸するTAP ポルトガル航空のエアバスA340-300
+ターミナル1
+航空会社就航地 ポルトガルの旗 TAP ポルトガル航空  国内線: ファロ、フンシャル、オルタ（English版）、ピコ島（English版）、 ポンタ・デルガダ、ポルト、 テルセイラ   南欧: バルセロナ、ボローニャ、マドリード、ミラノ/マルペンサ、ローマ/フィウミチーノ、ヴェネツィア、ザグレブ  西欧: アムステルダム、ベルリン/シェーネフェルト、ブリュッセル、デュッセルドルフ、フランクフルト、ジュネーヴ、ハンブルク、ロンドン/ガトウィック、ロンドン/ヒースロー、ルクセンブルク、マンチェスター、ミュンヘン、パリ/オルリー、ウィーン、チューリッヒ  北欧:  コペンハーゲン、ヘルシンキ、オスロ/ガーデモエン、ストックホルム/アーランダ  東欧: ブカレスト、ブダペスト、モスクワ/ドモジェドヴォ、プラハ、ワルシャワ  アフリカ: アクラ、バマコ、ビサウ、ボア・ヴィスタ島、カサブランカ、ダカール、ルアンダ、マプト、マラケシュ、 プライア、サル、サン・ヴィセンテ（English版）  北米: マイアミ、ニューヨーク/ニューアーク  南米: ベレン（English版） [2014年6月3日就航予定]、ベロオリゾンテ、ブラジリア、カンピーナス/ヴィラコッポス、カラカス、フォルタレザ（English版）、マナウス（English版）[2014年6月3日就航予定]、ナタール（English版）、ポルト・アレグレ、レシフェ、リオデジャネイロ、サルヴァドール、サンパウロ/グアルーリョス  季節運航: ポルト・サント（English版） 
+ ポルトガルの旗 TAP ポルトガル航空 運航は ポルトガルの旗 ポルトガリア航空  国内線: ファロ、フンシャル、ポルト  スペイン: ア・コルーニャ、バルセロナ、ビルバオ、マドリード、マラガ、セビリア、バレンシア  フランス: ボルドー、リヨン、マルセイユ、ニース、トゥールーズ  西欧: ルクセンブルク、マンチェスター  アフリカ: アルジェ、カサブランカ、マラケシュ、タンジール 
+ ポルトガルの旗 TAP ポルトガル航空 運航は ポルトガルの旗 ホワイト・エアウェイズ  サントメ 
+ ポルトガルの旗 SATA国際航空（English版）  ボストン、ホルタ、ポンタ・デルガダ、サンタマリア（English版）、テルセイラ、トロント 季節運航: グラン・カナリア、モントリオール/トルドー  季節チャーター便: カンクン、プンタ・カナ（English版）、サンクトペテルブルク 
+ アイルランドの旗 エアリンガス  ダブリン 
+ フランスの旗 エーグル・アズール  パリ/オルリー 
+ カナダの旗 エア・カナダ・ルージュ  季節運航: トロント [2014年6月21日就航予定] 
+ フランスの旗 CCM航空  季節チャーター便: バスティア（English版） [2014年1月24日から1月26日まで運航][5] 
+ スペインの旗 エア・ヨーロッパ  マドリード 
+ スペインの旗 エア・ヨーロッパ 運航は スペインの旗 プリビリッジ・スタイル（English版）  マドリード 
+ フランスの旗 エールフランス  パリ/シャルル・ド・ゴール 
+ フランスの旗 エール・メディテラネ  パリ/シャルル・ド・ゴール  季節運航: リヨン 
+ モルドバの旗 モルドバ航空  キシナウ 
+ カナダの旗 エア・トランザット  トロント 季節運航: モントリオール/トルドー 
+ スペインの旗 ビンテル・カナリアス（English版）  グラン・カナリア 
+ イギリスの旗 ブリティッシュエアウェイズ  ロンドン/ヒースロー 
+ ベルギーの旗 ブリュッセル航空  ブリュッセル 
+ アラブ首長国連邦の旗 エミレーツ航空  ドバイ 
+ ドイツの旗 ジャーマンウイングス  ケルン/ボン 季節運航: シュトゥットガルト 
+ スペインの旗 イベリア航空  マドリード 
+ イスラエルの旗 イズレール航空  季節運航: テルアビブ/ベン・グリオン 
+ オランダの旗 KLMオランダ航空  アムステルダム 
+ ドイツの旗 ルフトハンザドイツ航空  フランクフルト、ミュンヘン 
+ ルクセンブルクの旗 ルクスエア  ルクセンブルク[2014年3月31日就航予定] 
+ モロッコの旗 ロイヤル・エア・モロッコ  カサブランカ 
+ ノルウェーの旗スウェーデンの旗デンマークの旗 スカンジナビア航空  季節運航: オスロ/ガーデモエン 
+ サントメ・プリンシペの旗 STP航空 運航は ポルトガルの旗 ユーロ・アトランティック・エアウェイズ（English版）  サントメ 
+ スイスの旗 スイスインターナショナルエアラインズ  ジュネーヴ[2014年4月11日就航予定]、チューリッヒ 
+ アンゴラの旗 TAAGアンゴラ航空  ルアンダ 
+ カーボベルデの旗 TACV（English版）  グラン・カナリア、プライア、サル、サン・ヴィセンテ 季節運航: ボア・ヴィスタ島 
+ ロシアの旗 トランスアエロ航空  モスクワ/ヴヌーコヴォ 
+ チュニジアの旗 チュニスエア  チュニス 
+ トルコの旗 ターキッシュ エアラインズ  イスタンブール/アタテュルク 
+ ウクライナの旗 ウクライナ国際航空  キエフ/ボルィースピリ 
+ アメリカ合衆国の旗 ユナイテッド航空  ニューヨーク/ニューアーク 
+ アメリカ合衆国の旗 USエアウェイズ  季節運航: シャーロット[2014年5月23日就航予定][6]、フィラデルフィア 
+ スペインの旗 ブエリング航空  バルセロナ、ブリュッセル[2014年5月1日就航予定]、パリ/オルリー 
+
+ターミナル2
+航空会社就航地 イギリスの旗 イージージェット  国内線: フンシャル  スペイン: アストゥリアス[2014年3月28日まで運航]、ビルバオ、マドリード  イタリア: ミラノ/マルペンサ、ヴェネツィア[2014年3月28日まで運航]  イギリス: ブリストル、エディンバラ、リバプール、ロンドン/ガトウィック、ロンドン/ルートン  フランス: ボルドー、リヨン、ニース[2014年4月10日就航予定]、パリ/シャルル・ド・ゴール  西欧・北欧: アムステルダム、ベルリン/シェーネフェルト、コペンハーゲン、ルクセンブルク[2013年12月10日就航予定] 
+ スイスの旗 イージージェット・スイス（English版）  バーゼル/ミュールーズ、ジュネーヴ 
+ ノルウェーの旗 ノルウェー・エアシャトル  コペンハーゲン  季節運航: オスロ/ガーデモエン 
+ アイルランドの旗 ライアンエアー  パリ/ボーヴェ、ブリュッセル/シャルルロワ、ダブリン[2014年4月1日就航予定][7]、 フランクフルト/ハーン、ロンドン/スタンステッド 
+ イスラエルの旗 サンドア国際航空（English版） 運航は イスラエルの旗 エル・アル航空  季節運航: テルアビブ/ベン・グリオン 
+ オランダの旗 トランサヴィア  アムステルダム、アイントホーフェン 
+ フランスの旗 トランサヴィア・フランス（English版）  ナント、パリ/オルリー 
+
+貨物便
+航空会社就航地 ポルトガルの旗 アグロアール貨物航空（English版）  フンシャル、ポルト・サント
+ イギリスの旗 DHLアビエーション  ロンドン/ヒースロー、ライプツィヒ/ハレ、ビトリア
+ モロッコの旗 メド航空（English版）  カサブランカ、タンジール
+ スペインの旗 スウィフトエア  フンシャル
+ ベルギーの旗 ASL航空ベルギー  リエージュ
+
+空港アクセス
+リスボン市内へは、地下鉄レッドライン、アエロ・バス（3ユーロ）、路線バス（1.4ユーロ）若しくはタクシーの利用となる。
+
+地下鉄
+レッドライン - 空港駅～オリエンテ駅～サン・セバスティアン駅。途中、アラメダ駅でグリーンライン、サルダーニャ駅でイエローライン、そして終点サン・セバスティアン駅でブルーラインに接続しており、1回乗り換えるだけで全ての地下鉄駅にアクセスすることができる。また、オリエンテ駅からはポルトガル国内各地向けの列車が発着しており、国内の乗り継ぎも便利。
+バス
+91番 - アエロ・バス
+7時から20時台までは毎時20分間隔で出ている。21時以降は30分おきで23時が終車。
+主な経由地は　CPカイス・ド・ソドレ駅～ロシオ広場～ポンバル侯爵広場～空港
+ その他の路線バス
+ 5番 - CPオリエンテ駅～空港～CPローマ・アレイロ駅
+ 22番 - ポンバル侯爵広場～空港～ポルテラ
+ 44番 - CPカイス・ド・ソドレ駅～ロシオ広場～ポンバル侯爵広場～空港～モスカビーデ
+ 83番 - アモレイラス～ポンバル侯爵広場～空港～ポルテラ
+脚注
+[ヘルプ]
+
+
+^ “Base easyJet de Lisboa abre em Abril 2012”. 2012年3月4日閲覧。
+
+^ “EAD BASIC”. 2012年3月4日閲覧。
+
+^ “Conheça o Aeroporto”.   ANA Aeroportos de Portugal S.A.. 2015年9月27日閲覧。
+
+^ Aeroporto de Lisboa muda de nome este domingo
+
+^ http://corse.france3.fr/2013/11/14/barcelone-venise-lisbonne-et-istanbul-air-corsica-lance-ses-hivernales-356917.html
+
+^ by JL (2013年10月19日). “US Airways Expands Trans-Atlantic Service from Charlotte in S14; Airline Route – Worldwide Airline Route Updates”.   Airlineroute.net. 2013年10月19日閲覧。
+
+^ New route to DUB
+
+
+外部リンク
+ ANA:Aeroportos de Portugal SA 
+表話編歴空港情報 (ICAO：LPPT)空港概要
+ worldaerodata.com
+ Great Circle Mapper
+ FlightAware
+ SkyVector気象情報
+ 定時航空気象 (METAR)
+ 飛行用飛行場予報 (TAF)
+ 定時航空気象 (NOAA/NWS)その他
+ 航空図 (SkyVector)
+ 航空便追跡 (FlightAware)
+
+執筆の途中です
+この項目は、空港・飛行場に関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ポータル 航空 / プロジェクト 航空 / プロジェクト 空港・飛行場）。
+
+
+
+
+
+
+					
+						「http://139.59.90.173/index.php?title=ウンベルト・デルガード空港&oldid=600898」から取得					
+				カテゴリ: 壊れたファイルへのリンクがあるページウィキデータにない座標空港スタブポルトガルの空港リスボンの交通人名空港				
+							
+		
+		
+			案内メニュー
+
+			
+									
+						個人用ツール
+						
+							ログイン						
+					
+									
+										
+						名前空間
+						
+															ページ
+															ノート
+													
+					
+										
+												
+							変種
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						表示
+						
+															閲覧
+															ソースを表示
+															履歴表示
+													
+					
+										
+						その他
+
+						
+							
+															
+						
+					
+										
+						
+							検索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			案内
+
+			
+									
+						メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)					
+							
+		
+			
+			ヘルプ
+
+			
+									
+						ヘルプ井戸端お知らせバグの報告sitesupportウィキペディアに関するお問い合わせ					
+							
+		
+			
+			ツール
+
+			
+									
+						リンク元関連ページの更新状況特別ページ印刷用バージョンこの版への固定リンクページ情報このページを引用					
+							
+		
+			
+			他言語版
+
+			
+									
+											
+				リンクを追加			
+		
+				
+		
+		
+							
+											 最終更新 2017年2月3日 (金) 20:32 （日時は個人設定で未設定ならばUTC）。
+									
+							
+											プライバシー・ポリシー
+											ウィキペディアについて
+											免責事項
+									
+										
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.224","walltime":"11.464","ppvisitednodes":{"value":5931,"limit":1000000},"ppgeneratednodes":{"value":27025,"limit":1000000},"postexpandincludesize":{"value":128255,"limit":2097152},"templateargumentsize":{"value":9322,"limit":2097152},"expansiondepth":{"value":29,"limit":40},"expensivefunctioncount":{"value":24,"limit":100},"entityaccesscount":{"value":0,"limit":250},"timingprofile":["100.00% 8199.159      1 -total"," 41.32% 3388.016      3 テンプレート:Airport-dest-list"," 28.97% 2375.421     57 テンプレート:Flagicon"," 22.12% 1813.254      1 テンプレート:Infobox_空港"," 20.52% 1682.479      1 テンプレート:Infobox"," 20.34% 1667.517      1 テンプレート:Reflist"," 17.79% 1458.367      4 テンプレート:Cite_web"," 10.00%  819.540     16 テンプレート:Ifempty","  9.34%  765.881      1 テンプレート:Airport-info","  8.74%  716.444      1 テンプレート:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"7.000"},"limitreport-virtmemusage":{"value":10260480,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180702191155","ttl":86400,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":12750});});
+	
+

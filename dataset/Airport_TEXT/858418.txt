@@ -1,0 +1,324 @@
+
+
+
+
+ファアア国際空港 - Wikipedia Dump 20171103
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ファアア国際空港","wgTitle":"ファアア国際空港","wgCurRevisionId":384469,"wgRevisionId":384469,"wgArticleId":384468,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["壊れたファイルへのリンクがあるページ","ウィキデータにない座標","フランス領ポリネシアの空港","タヒチ","オセアニア関連のスタブ項目","空港スタブ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"ファアア国際空港","wgRelevantArticleId":384468,"wgRequestId":"1ae5d0519c87d9fce7e91ad2","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@13mv994",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","wikibase.ui.entitysearch","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+						
+
+			ファアア国際空港
+									
+									出典: フリー百科事典『ウィキペディア（Wikipedia）』
+								
+												
+					移動先:					案内、					検索
+				
+				タヒチ・ファアア国際空港Aéroport international de Tahiti Fa'a'ā 
+300px
+IATA: PPT - ICAO: NTAA概要国・地域
+フランス領ポリネシアの旗 フランス領ポリネシア所在地
+タヒチ島ファアア母都市
+パペーテ種類
+官民共用標高
+2.1 m座標
+南緯17度33分24秒 西経149度36分41秒 / 南緯17.55667度 西経149.61139度 / -17.55667; -149.61139座標: 南緯17度33分24秒 西経149度36分41秒 / 南緯17.55667度 西経149.61139度 / -17.55667; -149.61139致命的なエラー: The format of the coordinate could not be determined. Parsing failed.ウェブサイト
+http://www.tahiti-aeroport.pf/滑走路
+
+
+ 方向
+ 長さ×幅 (m)
+ 表面
+
+
+ 04/22
+ 3,463×45
+ アスファルト
+
+
+
+
+
+
+
+
+リスト
+空港の一覧テンプレートを表示
+タヒチ・ファアア国際空港（フランス語: Aéroport international de Tahiti Fa'a'ā、英語: Fa'a'ā International Airport）は、フランス領ポリネシアタヒチ島のファアア（English版）にある空港である。フランス領ポリネシア唯一の国際空港でもある。
+
+目次
+
+1 概要
+2 施設
+3 就航路線
+
+3.1 国際線
+3.2 国内線
+3.3 旅客便就航都市一覧
+
+
+4 脚註
+5 外部リンク
+
+
+
+概要
+1960年に開港した。フランス領ポリネシアの最大都市パペーテから5km南西の場所にある。国際線を運行するエア タヒチ ヌイがこの空港を本拠地としている。国際線のほか、エアタヒチがフランス領ポリネシアの島々をくまなく網羅しており、タヒチの空の玄関口となっている。2010年までタヒチ島とモーレア島との間でシャトル便を運航していたエア・モーレアのターミナルは、メインターミナル東100 mほどの位置にある別のターミナルとなっていた。
+
+施設
+ターミナル1は国際線、ターミナル2は国内線が使用している。ターミナル1とターミナル2は歩道でつながっている。銀行、両替所、免税店、飲食店、花屋、郵便局などは出発ロビー、到着ロビーの両方にある。パペーテとの間はタクシーと船で行くことができる。駐車場はP1とP2の2つがあり、P1は国際線ターミナルに近く、P2は国内線ターミナルに近い。いずれもタラップによる搭乗で、ボーディングブリッジはない。
+
+就航路線
+国際線
+
+
+
+航空会社
+
+目的地
+
+
+ フランス領ポリネシアの旗 エア タヒチ ヌイ (TN)[1]
+
+ 日本 : 東京/成田  ニュージーランド : オークランド  北アメリカ : ロサンゼルス  ヨーロッパ : パリ/シャルル・ド・ゴール（ロサンゼルス経由）
+
+
+ フランス領ポリネシアの旗 エアタヒチ (VT)
+
+ ラロトンガ
+
+
+ フランスの旗 エールフランス (AF)
+
+ ロサンゼルス、パリ/シャルル・ド・ゴール（ロサンゼルス経由）
+
+
+ ニュージーランドの旗 ニュージーランド航空 (NZ)
+
+ オークランド
+
+
+ ニューカレドニアの旗 エア・カレドニア・インターナショナル (SB)
+
+ ヌメア
+
+
+ ハワイ州の旗 ハワイアン航空 (HA)
+
+ ホノルル
+
+
+ チリの旗 LATAM チリ (LA)
+
+ イースター島、サンティアゴ（イースター島経由）
+
+国内線
+
+
+
+航空会社
+
+目的地
+
+
+ フランス領ポリネシアの旗 エアタヒチ
+
+ アへ（English版）、アナー（English版）、ヒバ・オア（English版）、アルトゥア（English版）、ボラボラ島、ファカラヴァ、ハオ（English版）、フアヒネ、カウクラ（English版）、マケモ（English版）、マニヒ、マタイヴァ（English版）、マウピティ（English版）、モーレア（English版）、ニアウ（English版）、ヌク・ヒバ（English版）、ライアテア（English版）、ランギロア（English版）、リマタラ（English版）、ルルトゥ（English版）、ライヴァヴァエ（English版）、ティケハウ（English版）、タカロア（English版）、タタコト（English版）、ティケハウ（English版）、マンガレヴァ（English版）、トゥブアイ（English版）
+
+旅客便就航都市一覧
+ファイル:AirTahiti.Aerogare.Faaa.JPG  エアタヒチの尾翼とタヒチ・ファアア国際空港のターミナル外観
+ファイル:Waiting room (Tahiti FAAA Airport - Tahiti).jpg  タヒチ・ファアア国際空港の待合室
+ファイル:Air tahiti.jpg  エア タヒチ ヌイのエアバスA340-300
+ フランス領ポリネシアの旗 フランス領ポリネシア
+ ソシエテ諸島
+ ボラボラ島、フアヒネ島、マウピティ島、モーレア島、ライアテア島
+ オーストラル諸島
+ リマタラ島（English版）、ルルツ島、ライヴァヴァエ島（English版）、トゥブアイ島
+ トゥアモトゥ諸島
+ アへ環礁（English版）、アナー環礁（English版）、アルトゥア環礁、ファカラヴァ環礁、ハオ環礁（English版）、カウクラ環礁（English版）、マケモ環礁（English版）、マニヒ環礁、マタイヴァ環礁、ニアウ環礁（English版）、ランギロア環礁、ティケハウ環礁、タカロア環礁（English版）、タタコト環礁（English版）、ティケハウ環礁
+ ガンビエ諸島
+ マンガレヴァ島
+ マルキーズ諸島
+ ヒバ・オア島、ヌク・ヒバ島
+ ポリネシア
+ クック諸島の旗 クック諸島 : ラロトンガ島
+ 25x20px ニュージーランド : オークランド
+ アメリカ合衆国の旗 アメリカ合衆国 : ホノルル
+ 25x20px チリ : イースター島
+ メラネシア
+ ニューカレドニアの旗 ニューカレドニア : ヌメア 
+ 北アメリカ
+ アメリカ合衆国の旗 アメリカ合衆国 : ロサンゼルス
+ 南アメリカ
+ 25x20px チリ : サンティアゴ
+ アジア
+ 日本の旗 日本 : 東京/成田
+ ヨーロッパ
+ フランスの旗 フランス : パリ
+脚註
+
+
+^ 路線マップ  Air Tahiti Nui
+
+
+外部リンク
+ Aéroport International Tahiti Faa'a （フランス語）（英語）
+ タヒチ観光局 （日本語）
+ エアタヒチ ヌイ （日本語）
+表話編歴空港情報 (ICAO：NTAA)空港概要
+ worldaerodata.com
+ Great Circle Mapper
+ FlightAware
+ SkyVector気象情報
+ 定時航空気象 (METAR)
+ 飛行用飛行場予報 (TAF)
+ 定時航空気象 (NOAA/NWS)その他
+ 航空図 (SkyVector)
+ 航空便追跡 (FlightAware)
+
+執筆の途中です
+この項目は、オセアニアに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ウィキプロジェクト 国）。
+
+
+執筆の途中です
+この項目は、空港・飛行場に関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ポータル 航空 / プロジェクト 航空 / プロジェクト 空港・飛行場）。
+
+
+
+
+
+
+					
+						「http://139.59.90.173/index.php?title=ファアア国際空港&oldid=384469」から取得					
+				カテゴリ: 壊れたファイルへのリンクがあるページウィキデータにない座標フランス領ポリネシアの空港タヒチオセアニア関連のスタブ項目空港スタブ				
+							
+		
+		
+			案内メニュー
+
+			
+									
+						個人用ツール
+						
+							ログイン						
+					
+									
+										
+						名前空間
+						
+															ページ
+															ノート
+													
+					
+										
+												
+							変種
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						表示
+						
+															閲覧
+															ソースを表示
+															履歴表示
+													
+					
+										
+						その他
+
+						
+							
+															
+						
+					
+										
+						
+							検索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			案内
+
+			
+									
+						メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)					
+							
+		
+			
+			ヘルプ
+
+			
+									
+						ヘルプ井戸端お知らせバグの報告sitesupportウィキペディアに関するお問い合わせ					
+							
+		
+			
+			ツール
+
+			
+									
+						リンク元関連ページの更新状況特別ページ印刷用バージョンこの版への固定リンクページ情報このページを引用					
+							
+		
+			
+			他言語版
+
+			
+									
+											
+				リンクを追加			
+		
+				
+		
+		
+							
+											 最終更新 2017年3月9日 (木) 05:37 （日時は個人設定で未設定ならばUTC）。
+									
+							
+											プライバシー・ポリシー
+											ウィキペディアについて
+											免責事項
+									
+										
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.762","walltime":"7.153","ppvisitednodes":{"value":3976,"limit":1000000},"ppgeneratednodes":{"value":17240,"limit":1000000},"postexpandincludesize":{"value":64978,"limit":2097152},"templateargumentsize":{"value":8863,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":33,"limit":100},"entityaccesscount":{"value":0,"limit":250},"timingprofile":["100.00% 5167.196      1 -total"," 27.10% 1400.346      1 テンプレート:Infobox_空港"," 23.35% 1206.513      1 テンプレート:Infobox"," 15.22%  786.612     34 テンプレート:仮リンク"," 14.83%  766.540      5 テンプレート:ISO639言語名"," 13.99%  722.904      1 テンプレート:Airport-info"," 13.35%  689.854      1 テンプレート:Navbox"," 11.87%  613.437     14 テンプレート:Flagicon"," 10.91%  563.994     12 テンプレート:Ifempty","  8.42%  434.903      2 テンプレート:LangWithName"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7.000"},"limitreport-virtmemusage":{"value":9854976,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180702192217","ttl":86400,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":8742});});
+	
+

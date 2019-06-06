@@ -1,0 +1,262 @@
+
+
+
+
+ベアトリクス女王国際空港 - Wikipedia Dump 20171103
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ベアトリクス女王国際空港","wgTitle":"ベアトリクス女王国際空港","wgCurRevisionId":69524,"wgRevisionId":69524,"wgArticleId":69524,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["壊れたファイルへのリンクがあるページ","ウィキデータにない座標","空港スタブ","中央アメリカ関連のスタブ項目","アルバの空港"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"ベアトリクス女王国際空港","wgRelevantArticleId":69524,"wgRequestId":"9f6efbaeab4af39fb6483676","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@13mv994",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","wikibase.ui.entitysearch","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+						
+
+			ベアトリクス女王国際空港
+									
+									出典: フリー百科事典『ウィキペディア（Wikipedia）』
+								
+												
+					移動先:					案内、					検索
+				
+				ベアトリクス女王国際空港
+クィーン・ベアトリクス国際空港
+IATA: AUA - ICAO: TNCA
+
+AUA/TNCAの位置（アルバ内）AUA/TNCAAUA/TNCA空港の位置（アルバ）概要国・地域
+アルバの旗 アルバ所在地
+オラニエスタッド種類
+民間標高
+18 m (60 ft)座標
+北緯12度30分05.00秒 西経70度00分54.80秒 / 北緯12.5013889度 西経70.0152222度 / 12.5013889; -70.0152222座標: 北緯12度30分05.00秒 西経70度00分54.80秒 / 北緯12.5013889度 西経70.0152222度 / 12.5013889; -70.0152222致命的なエラー: The format of the coordinate could not be determined. Parsing failed.ウェブサイト
+http://www.airportaruba.com/滑走路
+
+
+ 方向
+ 長さ (m)
+ 表面
+
+
+ 11/29
+ 2,743
+ 舗装
+
+
+
+
+
+
+
+
+リスト
+空港の一覧テンプレートを表示
+ベアトリクス女王国際空港（オランダ語: Internationale Luchthaven Koningin Beatrix、英語: Queen Beatrix International Airport）とは、アルバの主都、オラニエスタッドにある国際空港。
+空港名は、前オランダ女王ベアトリクスの名を冠している。
+
+目次
+
+1 就航航空会社
+
+1.1 旅客
+1.2 貨物
+
+
+2 外部リンク
+
+
+
+就航航空会社
+旅客
+ エア・カナダ（トロント）
+ アメリカン航空（ボストン[季節運航]、マイアミ、ニューヨーク（JFK））
+ アメリカン・イーグル航空（サンフアン）
+ Aires（Barranquilla、Cartagena）
+ Arkefly（アムステルダム、ウィレムスタッド）
+ Aserca Airlines（Caracas、Santo Domingo）
+ アビアンカ航空（ボゴタ）
+ アビアンカ航空 運航はSAM（Barranquilla、ボゴタ、Medellin）
+ アビオール・エアラインズ（カラカス、Maracaibo、バルセロナ）
+ CanJet（モントリオール）
+ Caribair（Santo Domingo）
+ Condor（フランクフルト）
+ コンチネンタル航空（ヒューストン、ニューヨーク（ラガーディア）、ニューヨーク（ニューアーク））
+ デルタ航空（アトランタ、ニューヨーク（JFK））
+ Dutch Antilles Express（Kralendijk、ウィレムスタッド）
+ First Choice Airways（ロンドン（ガトウィック）、マンチェスター）
+ Insel Air（ウィレムスタッド）
+ ジェットブルー航空（ボストン、ニューヨーク（JFK））
+ KLMオランダ航空（アムステルダム、Bonaire）
+ Linea Aerea Aerocaribe（Las Piedras)
+ マーティンエアー（アムステルダム）
+ Santa Barbara Airlines（Las Piedras、Maracaibo)
+ Skyservice（モントリオール、トロント）
+ スピリット航空（フォートローダーデール）
+ Surinam Airways（パラマリボ、Port of Spain、ウィレムスタッド）
+ Tiara Air（Kralendijk、Willemstad、Punto Fijo)
+ Thomsonfly（Birmingham）
+ ユナイテッド航空（シカゴ、ワシントン）
+ USエアウェイズ（ボストン、シャーロット、ニューヨーク（ラガーディア）[季節運航]、フィラデルフィア）
+ Venezolana（カラカス、Maracaibo）
+ Viva Air Dominicana（Santo Domingo）
+貨物
+ Amerijet International（マイアミ、Santiago(DR)、Santo Domingo）
+ DHL（International）
+ Merlin Express（Puerto Rico）
+ Ameriflight（San Juan）
+ Líneas Aéreas Suramericanas（ボゴタ）
+
+
+外部リンク
+ ベアトリクス女王国際空港ウェブサイト
+表話編歴空港情報 (ICAO：TNCA)空港概要
+ worldaerodata.com
+ Great Circle Mapper
+ FlightAware
+ SkyVector気象情報
+ 定時航空気象 (METAR)
+ 飛行用飛行場予報 (TAF)
+ 定時航空気象 (NOAA/NWS)その他
+ 航空図 (SkyVector)
+ 航空便追跡 (FlightAware)
+
+執筆の途中です
+この項目は、空港・飛行場に関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ポータル 航空 / プロジェクト 航空 / プロジェクト 空港・飛行場）。
+
+
+執筆の途中です
+この項目は、中央アメリカに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています。
+
+
+
+
+
+
+					
+						「http://139.59.90.173/index.php?title=ベアトリクス女王国際空港&oldid=69524」から取得					
+				カテゴリ: 壊れたファイルへのリンクがあるページウィキデータにない座標空港スタブ中央アメリカ関連のスタブ項目アルバの空港				
+							
+		
+		
+			案内メニュー
+
+			
+									
+						個人用ツール
+						
+							ログイン						
+					
+									
+										
+						名前空間
+						
+															ページ
+															ノート
+													
+					
+										
+												
+							変種
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						表示
+						
+															閲覧
+															ソースを表示
+															履歴表示
+													
+					
+										
+						その他
+
+						
+							
+															
+						
+					
+										
+						
+							検索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			案内
+
+			
+									
+						メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)					
+							
+		
+			
+			ヘルプ
+
+			
+									
+						ヘルプ井戸端お知らせバグの報告sitesupportウィキペディアに関するお問い合わせ					
+							
+		
+			
+			ツール
+
+			
+									
+						リンク元関連ページの更新状況特別ページ印刷用バージョンこの版への固定リンクページ情報このページを引用					
+							
+		
+			
+			他言語版
+
+			
+									
+											
+				リンクを追加			
+		
+				
+		
+		
+							
+											 最終更新 2017年2月17日 (金) 00:10 （日時は個人設定で未設定ならばUTC）。
+									
+							
+											プライバシー・ポリシー
+											ウィキペディアについて
+											免責事項
+									
+										
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.366","walltime":"3.443","ppvisitednodes":{"value":944,"limit":1000000},"ppgeneratednodes":{"value":7717,"limit":1000000},"postexpandincludesize":{"value":43999,"limit":2097152},"templateargumentsize":{"value":2633,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":100},"entityaccesscount":{"value":0,"limit":250},"timingprofile":["100.00% 2518.818      1 -total"," 63.72% 1605.047      1 テンプレート:Infobox_空港"," 54.98% 1384.749      1 テンプレート:Infobox"," 29.11%  733.149      1 テンプレート:Airport-info"," 27.92%  703.285      1 テンプレート:Navbox"," 24.78%  624.114     12 テンプレート:Ifempty"," 16.46%  414.661      1 テンプレート:Location_map","  7.12%  179.358      1 テンプレート:Coord","  5.36%  134.960      1 テンプレート:ABW","  4.20%  105.825      2 テンプレート:Asbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7.000"},"limitreport-virtmemusage":{"value":10252288,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180702190636","ttl":86400,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":4636});});
+	
+

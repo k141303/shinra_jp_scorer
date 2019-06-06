@@ -1,0 +1,379 @@
+
+
+
+
+泉州晋江国際空港 - Wikipedia Dump 20171103
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"泉州晋江国際空港","wgTitle":"泉州晋江国際空港","wgCurRevisionId":1493265,"wgRevisionId":1493265,"wgArticleId":1493264,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["壊れたファイルへのリンクがあるページ","ウィキデータにない座標","空港スタブ","福建省の空港","泉州市"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"泉州晋江国際空港","wgRelevantArticleId":1493264,"wgRequestId":"953e724e845a8d193a739148","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@13mv994",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","wikibase.ui.entitysearch","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+						
+
+			泉州晋江国際空港
+									
+									出典: フリー百科事典『ウィキペディア（Wikipedia）』
+								
+												
+					移動先:					案内、					検索
+				
+				泉州晋江国際空港Quanzhou Jinjiang International Airport
+IATA: JJN - ICAO: ZSQZ概要国・地域
+中華人民共和国の旗 中国所在地
+中国福建省泉州市種類
+民間運用時間
+1995-今座標
+北緯24度47分56秒 東経118度35分25秒 / 北緯24.79889度 東経118.59028度 / 24.79889; 118.59028座標: 北緯24度47分56秒 東経118度35分25秒 / 北緯24.79889度 東経118.59028度 / 24.79889; 118.59028致命的なエラー: The format of the coordinate could not be determined. Parsing failed.ウェブサイト
+http://www.qzair.com/滑走路
+
+
+ 方向
+ 長さ×幅 (m)
+ 表面
+
+
+ 03/21
+ 2,600×50
+ ?
+
+
+
+
+
+
+
+
+リスト
+空港の一覧テンプレートを表示
+泉州晋江国際空港
+250px各種表記繁体字：
+泉州晉江國際機場簡体字：
+泉州晋江国际机场英文：
+Quanzhou Jinjiang International Airportテンプレートを表示
+泉州晋江国際空港は、中国・福建省泉州市にある空港である。
+
+目次
+
+1 概要
+2 就航航空会社
+
+2.1 国内線
+2.2 国際線
+2.3 貨物便
+
+
+3 脚注
+4 関連項目
+5 外部リンク
+
+
+
+概要
+泉州市の中心部から南に12kmの場所にある。
+1955年8月、中国人民解放軍空軍の飛行場として建設され、1980年5月、軍民共用となった。
+
+就航航空会社
+国内線
+ 厦門航空 （北京/首都、上海/虹橋、広州、深圳、重慶、成都、昆明、西安、杭州、済南、武漢、舟山、長沙、南昌、鄭州）
+ 深圳航空 （上海/浦東、広州、深圳、南京、舟山）
+ 奥凱航空 （天津、杭州、南京、南寧）
+ 四川航空 （重慶、成都、武漢、貴陽）
+ 中国国際航空 （北京/首都）
+ 春秋航空 （上海/虹橋）
+国際線
+ 春秋航空　(大阪/関西) [1]
+ 厦門航空 （中国香港 [2]）
+ 厦門航空 （台北/桃園） 
+ 深圳航空 （中国香港）
+ マカオ航空 （中国マカオ [3]）
+ タイ新時代航空 （タイ/クラビー県） 
+ フィリピン航空 （マニラ空港）
+貨物便
+ 深圳東海航空 （無錫）
+ 揚子江快運航空 （深圳、枕州）
+脚注
+
+
+^ 春秋航空、大阪/関西〜西安・鄭州・成都・泉州線に就航へ　関西発着便は10路線にトライシー 2015年2月9日閲覧
+
+^ 厦門航空、香港/泉州線のデイリー運航をスタート
+
+^ マカオ航空、マカオ/泉州線に就航
+
+
+関連項目
+ 中華人民共和国の空港の一覧
+外部リンク
+ 泉州晋江机場
+表話編歴空港情報 (ICAO：ZSQZ)空港概要
+ worldaerodata.com
+ Great Circle Mapper
+ FlightAware
+ SkyVector気象情報
+ 定時航空気象 (METAR)
+ 飛行用飛行場予報 (TAF)
+ 定時航空気象 (NOAA/NWS)その他
+ 航空図 (SkyVector)
+ 航空便追跡 (FlightAware)
+表話編歴中華人民共和国の旗 中華人民共和国の空港華北
+ 包頭
+ 北京首都
+ 北京南苑
+ エレンホト
+ フフホト
+ 満州里
+ オルドス
+ 石家荘
+ 太原
+ 天津
+ 運城東北
+ 長白山
+ 長春
+ 長海
+ 朝陽
+ 大連
+ 丹東
+ ハルビン
+ ジャムス
+ 漠河
+ 牡丹江
+ チチハル
+ 瀋陽
+ 延吉
+ 伊春華東
+ 東営
+ 阜陽
+ 福州
+ 杭州
+ 合肥
+ 淮安
+ 黄山
+ 済南
+ 景徳鎮
+ 済寧
+ 連雲港
+ 臨沂
+ 南昌
+ 南京
+ 南通
+ 寧波
+ 青島
+ 泉州
+ 上海虹橋
+ 上海浦東
+ 蘇南
+ 濰坊
+ 威海
+ 温州
+ 武夷山
+ 廈門
+ 徐州
+ 塩城
+ 揚州
+ 煙台
+ 舟山中南
+ 長沙
+ 恩施
+ 仏山
+ 広州
+ 桂林
+ 海口
+ 掲陽
+ 洛陽
+ 南寧
+ 三亜
+ 深圳
+ 武漢
+ 宜昌
+ 張家界
+ 鄭州
+ 珠海西南
+ 成都
+ 重慶
+ 大理
+ 稲城
+ 徳宏
+ シャングリラ
+ 貴陽
+ 九寨溝
+ 康定
+ 昆明
+ ラサ
+ 麗江
+ ガリ
+ ニンティ
+ チャムド
+ 万州
+ 西昌
+ シーサンパンナ西北
+ アルタイ
+ 敦煌
+ ゴルムド
+ 固原
+ ハミ
+ ホータン
+ 嘉峪関
+ カラマイ
+ カシュガル
+ クチャ
+ 蘭州
+ チャルチャン
+ ウルムチ
+ 西安
+ 西寧
+ 銀川
+ イーニン
+ 玉樹
+ 中衛香港・マカオ
+ 香港
+ マカオ建設中
+ 北京大興
+ 成都天府（中文版）
+ 大連金州湾（English版）
+ 青島膠東（中文版）
+ 厦門翔安（中文版）閉鎖
+ 合肥駱崗
+ 昆明巫家壩
+ 武漢王家墩
+ 香港啓徳
+太字は国際空港を示す ・ 「中華人民共和国の空港の一覧」と「Category:中華人民共和国の空港」、「Category:中華人民共和国の軍用飛行場」も参照台湾（中華民国）の空港は「Category:台湾の空港」を参照
+
+執筆の途中です
+この項目は、空港・飛行場に関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ポータル 航空 / プロジェクト 航空 / プロジェクト 空港・飛行場）。
+
+
+
+
+
+
+					
+						「http://139.59.90.173/index.php?title=泉州晋江国際空港&oldid=1493265」から取得					
+				カテゴリ: 壊れたファイルへのリンクがあるページウィキデータにない座標空港スタブ福建省の空港泉州市				
+							
+		
+		
+			案内メニュー
+
+			
+									
+						個人用ツール
+						
+							ログイン						
+					
+									
+										
+						名前空間
+						
+															ページ
+															ノート
+													
+					
+										
+												
+							変種
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						表示
+						
+															閲覧
+															ソースを表示
+															履歴表示
+													
+					
+										
+						その他
+
+						
+							
+															
+						
+					
+										
+						
+							検索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			案内
+
+			
+									
+						メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)					
+							
+		
+			
+			ヘルプ
+
+			
+									
+						ヘルプ井戸端お知らせバグの報告sitesupportウィキペディアに関するお問い合わせ					
+							
+		
+			
+			ツール
+
+			
+									
+						リンク元関連ページの更新状況特別ページ印刷用バージョンこの版への固定リンクページ情報このページを引用					
+							
+		
+			
+			他言語版
+
+			
+									
+											
+				リンクを追加			
+		
+				
+		
+		
+							
+											 最終更新 2017年6月24日 (土) 09:37 （日時は個人設定で未設定ならばUTC）。
+									
+							
+											プライバシー・ポリシー
+											ウィキペディアについて
+											免責事項
+									
+										
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.425","walltime":"4.128","ppvisitednodes":{"value":1299,"limit":1000000},"ppgeneratednodes":{"value":10378,"limit":1000000},"postexpandincludesize":{"value":77453,"limit":2097152},"templateargumentsize":{"value":1818,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":100},"entityaccesscount":{"value":0,"limit":250},"timingprofile":["100.00% 2732.446      1 -total"," 45.06% 1231.295      1 テンプレート:Infobox_空港"," 42.38% 1157.993      2 テンプレート:Infobox"," 33.77%  922.652      2 テンプレート:Navbox"," 27.64%  755.228      1 テンプレート:Airport-info"," 22.49%  614.604     12 テンプレート:Ifempty"," 10.58%  289.140      1 テンプレート:中華人民共和国の空港","  9.70%  265.001      1 テンプレート:Coord","  5.28%  144.234      1 テンプレート:中華圏の事物","  3.82%  104.450      1 テンプレート:Airport-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7.000"},"limitreport-virtmemusage":{"value":9965568,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180702190204","ttl":86400,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":5671});});
+	
+

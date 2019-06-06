@@ -1,0 +1,231 @@
+
+
+
+
+フェリックス・ウフェ＝ボワニ国際空港 - Wikipedia Dump 20171103
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"フェリックス・ウフェ＝ボワニ国際空港","wgTitle":"フェリックス・ウフェ＝ボワニ国際空港","wgCurRevisionId":717397,"wgRevisionId":717397,"wgArticleId":717396,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["壊れたファイルへのリンクがあるページ","ウィキデータにない座標","空港スタブ","コートジボワール関連のスタブ項目","コートジボワールの空港","人名空港","アビジャン"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"フェリックス・ウフェ＝ボワニ国際空港","wgRelevantArticleId":717396,"wgRequestId":"82ab425aab23f25db691078c","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@13mv994",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","wikibase.ui.entitysearch","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+						
+
+			フェリックス・ウフェ＝ボワニ国際空港
+									
+									出典: フリー百科事典『ウィキペディア（Wikipedia）』
+								
+												
+					移動先:					案内、					検索
+				
+				フェリックス・ウフェ＝ボワニ国際空港Aéroport international Félix-Houphouët-Boigny Felix Houphouet Boigny International Airport 
+290px
+IATA: ABJ - ICAO: DIAP概要国・地域
+コートジボワールの旗 コートジボワール共和国所在地
+アビジャン種類
+軍民共用運用時間
+24時間標高
+6 m (21 ft)座標
+北緯5度15分40.99秒 西経3度55分34.66秒 / 北緯5.2613861度 西経3.9262944度 / 5.2613861; -3.9262944座標: 北緯5度15分40.99秒 西経3度55分34.66秒 / 北緯5.2613861度 西経3.9262944度 / 5.2613861; -3.9262944致命的なエラー: The format of the coordinate could not be determined. Parsing failed.地図
+フェリックス・ウフェ＝ボワニ国際空港の位置ABJ/DIAPABJ/DIAPフェリックス・ウフェ＝ボワニ国際空港の位置滑走路
+
+
+ 方向
+ ILS
+ 長さ×幅 (m)
+ 表面
+
+
+ 03/21
+ 有
+ 3,000×50
+ アスファルト
+
+
+
+
+
+
+
+
+リスト
+空港の一覧テンプレートを表示
+フェリックス・ウフェ＝ボワニ国際空港（フェリックス・ウフェ＝ボワニこくさいくうこう、フランス語: Aéroport international Félix-Houphouët-Boigny、英語: Felix Houphouet Boigny International Airport）は、コートジボワールの旧首都、アビジャンにある国際空港。エール・コートジボワールのハブ空港である。空港名はコートジボワールの初代大統領であるフェリックス・ウフェ＝ボワニから命名された。
+
+就航航空会社と就航都市
+航空会社就航地 コートジボワールの旗 エール・コートジボワール  コトカ国際空港（アクラ）、バマコ・セヌー国際空港（バマコ）、マヤマヤ空港（ブラザヴィル）、コナクリ国際空港（コナクリ）、カジェフォウン空港（コトヌー）、レオポール・セダール・サンゴール国際空港（ダカール）、ドゥアラ国際空港（ドゥアラ）、ルンギ国際空港（フリータウン）、ヌジリ国際空港（キンシャサ）、リーブルヴィル国際空港（リーブルヴィル）、ロメ空港（ロメ）、モンロビア・ロバーツ国際空港（モンロビア）、ンジャメナ国際空港（ンジャメナ）、ディオリ・アマニ国際空港（ニアメ）、ワガドゥグー空港（ワガドゥグー）、ポワントノワール空港（ポワントノワール）、ヤウンデ・ンシマレン国際空港（ヤウンデ）
+ アルジェリアの旗 アルジェリア航空  ウアリ・ブーメディアン空港（アルジェ）
+ ブルキナファソの旗 エール・ブルキナ  ボボ・ディウラッソ空港（ボボ・ディウラッソ）、カジェフォウン空港（コトヌー）、ワガドゥグー空港（ワガドゥグー）
+ ナイジェリアの旗 アリクエア  ムルタラ・モハンマド国際空港（ラゴス）
+ トーゴの旗 ASKY航空  オスヴァルド・ヴィエイラ国際空港（ビサウ）、ロメ空港（ロメ）
+ カメルーンの旗 カメルーン航空  ドゥアラ国際空港（ドゥアラ）、ムルタラ・モハンマド国際空港（ラゴス）
+ 赤道ギニアの旗 CEIBAインターコンチネンタル  マラボ国際空港（マラボ）
+ ガーナの旗 イーグル・アトランティック航空  コトカ国際空港（アクラ）、ルンギ国際空港（フリータウン）、モンロビア・ロバーツ国際空港（モンロビア）
+ エジプトの旗 エジプト航空  カイロ国際空港（カイロ）
+ エチオピアの旗 エチオピア航空  ボレ国際空港（アディスアベバ）、ワガドゥグー空港（ワガドゥグー）
+ ケニアの旗 ケニア航空  レオポール・セダール・サンゴール国際空港（ダカール）、ジョモ・ケニヤッタ国際空港（ナイロビ）
+ モーリタニアの旗 モーリタニア航空インターナショナル  バマコ・セヌー国際空港（バマコ）、カジェフォウン空港（コトヌー）、ヌアクショット空港（ヌアクショット）
+ レバノンの旗 ミドル・イースト航空  ラフィク・ハリリ国際空港（ベイルート）
+ モロッコの旗 ロイヤル・エア・モロッコ  ムハンマド5世国際空港（カサブランカ）
+ セネガルの旗 セネガル航空  カジェフォウン空港（コトヌー）、レオポール・セダール・サンゴール国際空港（ダカール）
+ 南アフリカ共和国の旗 南アフリカ航空  O・R・タンボ国際空港（ヨハネスブルグ）
+ チュニジアの旗 チュニスエア  チュニス・カルタゴ国際空港（チュニス）
+ アラブ首長国連邦の旗 エミレーツ航空  ドバイ国際空港（ドバイ）
+ トルコの旗 ターキッシュ エアラインズ  アタテュルク国際空港（イスタンブール）
+ フランスの旗 エールフランス  パリ＝シャルル・ド・ゴール空港（パリ）
+ フランスの旗 コルセール・インターナショナル  パリ＝オルリー空港（パリ）
+ ベルギーの旗 ブリュッセル航空  ブリュッセル空港（ブリュッセル）、ロメ空港（ロメ）
+
+表話編歴空港情報 (ICAO：)空港概要
+ worldaerodata.com
+ Great Circle Mapper
+ FlightAware
+ SkyVector気象情報
+ 定時航空気象 (METAR)
+ 飛行用飛行場予報 (TAF)
+ 定時航空気象 (NOAA/NWS)その他
+ 航空図 (SkyVector)
+ 航空便追跡 (FlightAware)
+
+執筆の途中です
+この項目は、空港・飛行場に関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ポータル 航空 / プロジェクト 航空 / プロジェクト 空港・飛行場）。
+
+
+執筆の途中です
+この項目は、コートジボワールに関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（PJ:アフリカ）。
+
+
+
+
+
+
+					
+						「http://139.59.90.173/index.php?title=フェリックス・ウフェ＝ボワニ国際空港&oldid=717397」から取得					
+				カテゴリ: 壊れたファイルへのリンクがあるページウィキデータにない座標空港スタブコートジボワール関連のスタブ項目コートジボワールの空港人名空港アビジャン				
+							
+		
+		
+			案内メニュー
+
+			
+									
+						個人用ツール
+						
+							ログイン						
+					
+									
+										
+						名前空間
+						
+															ページ
+															ノート
+													
+					
+										
+												
+							変種
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						表示
+						
+															閲覧
+															ソースを表示
+															履歴表示
+													
+					
+										
+						その他
+
+						
+							
+															
+						
+					
+										
+						
+							検索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			案内
+
+			
+									
+						メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)					
+							
+		
+			
+			ヘルプ
+
+			
+									
+						ヘルプ井戸端お知らせバグの報告sitesupportウィキペディアに関するお問い合わせ					
+							
+		
+			
+			ツール
+
+			
+									
+						リンク元関連ページの更新状況特別ページ印刷用バージョンこの版への固定リンクページ情報このページを引用					
+							
+		
+			
+			他言語版
+
+			
+									
+											
+				リンクを追加			
+		
+				
+		
+		
+							
+											 最終更新 2017年4月21日 (金) 11:43 （日時は個人設定で未設定ならばUTC）。
+									
+							
+											プライバシー・ポリシー
+											ウィキペディアについて
+											免責事項
+									
+										
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.658","walltime":"6.147","ppvisitednodes":{"value":1881,"limit":1000000},"ppgeneratednodes":{"value":9167,"limit":1000000},"postexpandincludesize":{"value":63754,"limit":2097152},"templateargumentsize":{"value":2548,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":100},"entityaccesscount":{"value":0,"limit":250},"timingprofile":["100.00% 4345.055      1 -total"," 40.40% 1755.254      1 テンプレート:Airport-dest-list"," 36.97% 1606.150      1 テンプレート:Infobox_空港"," 35.83% 1556.631     23 テンプレート:Flagicon"," 33.32% 1447.862      1 テンプレート:Infobox"," 18.78%  815.847      1 テンプレート:Airport-info"," 18.40%  799.426      1 テンプレート:Navbox"," 15.39%  668.685     12 テンプレート:Ifempty","  8.35%  362.775      1 テンプレート:Location_map","  5.24%  227.740      1 テンプレート:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"7.000"},"limitreport-virtmemusage":{"value":9986048,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180702192300","ttl":86400,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":7523});});
+	
+

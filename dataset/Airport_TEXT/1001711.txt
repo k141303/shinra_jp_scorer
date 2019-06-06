@@ -1,0 +1,247 @@
+
+
+
+
+ハリファックス・ロバート・L・スタンフィールド国際空港 - Wikipedia Dump 20171103
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ハリファックス・ロバート・L・スタンフィールド国際空港","wgTitle":"ハリファックス・ロバート・L・スタンフィールド国際空港","wgCurRevisionId":617884,"wgRevisionId":617884,"wgArticleId":617883,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["スクリプトエラーがあるページ","壊れたファイルへのリンクがあるページ","ウィキデータにない座標","空港スタブ","ノバスコシア州の空港","ハリファックス","人名空港"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"ハリファックス・ロバート・L・スタンフィールド国際空港","wgRelevantArticleId":617883,"wgRequestId":"12cd631d48b256a701c466a4","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"],"ScribuntoErrors":["\u003Cp\u003ELua エラー モジュール:Location_map 内、364 行目: 緯度の値が指定されていません。\u003C/p\u003E\u003Cp\u003Eバックトレース:\u003C/p\u003E\u003Col class=\"scribunto-trace\"\u003E\u003Cli\u003E\u003Cstrong\u003E(tail call)\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: 関数「error」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"http://139.59.90.173/index.php?title=%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB:Location_map\u0026amp;action=edit#mw-ce-l364\"\u003Eモジュール:Location_map:364\u003C/a\u003E\u003C/strong\u003E: 関数「mark」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"http://139.59.90.173/index.php?title=%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB:Location_map\u0026amp;action=edit#mw-ce-l467\"\u003Eモジュール:Location_map:467\u003C/a\u003E\u003C/strong\u003E: 関数「chunk」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E(tail call)\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: 関数「xpcall」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMWServer.lua:87\u003C/strong\u003E: 関数「handleCall」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMWServer.lua:301\u003C/strong\u003E: 関数「dispatch」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMWServer.lua:58\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E(tail call)\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:188\u003C/strong\u003E: 関数「old_pairs」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E...nsions/Scribunto/engines/LuaCommon/lualib/mwInit.lua:17\u003C/strong\u003E: 関数「pairs」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"http://139.59.90.173/index.php?title=%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB:Arguments\u0026amp;action=edit#mw-ce-l207\"\u003Eモジュール:Arguments:207\u003C/a\u003E\u003C/strong\u003E: 関数「mergeArgs」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"http://139.59.90.173/index.php?title=%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB:Arguments\u0026amp;action=edit#mw-ce-l320\"\u003Eモジュール:Arguments:320\u003C/a\u003E\u003C/strong\u003E: 関数「old_pairs」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E...nsions/Scribunto/engines/LuaCommon/lualib/mwInit.lua:17\u003C/strong\u003E: 関数「pairs」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"http://139.59.90.173/index.php?title=%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB:Infobox/former\u0026amp;action=edit#mw-ce-l43\"\u003Eモジュール:Infobox/former:43\u003C/a\u003E\u003C/strong\u003E: 関数「chunk」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E(tail call)\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: 関数「xpcall」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMWServer.lua:87\u003C/strong\u003E: 関数「handleCall」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMWServer.lua:301\u003C/strong\u003E: 関数「dispatch」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMWServer.lua:40\u003C/strong\u003E: 関数「execute」内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw_main.lua:7\u003C/strong\u003E: メインチャンク内\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003C/ol\u003E"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@13mv994",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.scribunto.errors","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","wikibase.ui.entitysearch","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+						
+
+			ハリファックス・ロバート・L・スタンフィールド国際空港
+									
+									出典: フリー百科事典『ウィキペディア（Wikipedia）』
+								
+												
+					移動先:					案内、					検索
+				
+				ハリファックス・ロバート・L・スタンフィールド国際空港Halifax Robert L. Stanfield International Airport 
+ターミナルビルターミナルビル
+IATA: YHZ - ICAO: CYHZ概要国・地域
+カナダの旗 カナダ所在地
+ノバスコシア州エンフィールド母都市
+ハリファックス種類
+公共所有者
+カナダ運輸省[1]運営者
+ハリファックス国際空港公団開港
+1960年標高
+145 m (477 ft)座標
+北緯44度52分51秒 西経063度30分31秒 / 北緯44.88083度 西経63.50861度 / 44.88083; -63.50861座標: 北緯44度52分51秒 西経063度30分31秒 / 北緯44.88083度 西経63.50861度 / 44.88083; -63.50861致命的なエラー: The format of the coordinate could not be determined. Parsing failed.ウェブサイト
+http://www.hiaa.ca地図
+Lua エラー モジュール:Location_map 内、364 行目: 緯度の値が指定されていません。空港の位置滑走路
+
+
+ 方向
+ 長さ×幅 (m)
+ 表面
+
+
+ 05/23
+ 2,682×61
+ コンクリートアスファルト
+
+
+ 14/32
+ 2,347×61
+ アスファルト
+
+
+
+
+
+
+
+統計 (2008年)旅客数
+3,578,931人発着回数
+89,033回
+出典: Canada Flight Supplement統計はカナダ運輸省より[2]旅客数はハリファックス国際空港公団より[3]リスト
+空港の一覧テンプレートを表示
+ハリファックス・ロバート・L・スタンフィールド国際空港（英語：Halifax Robert L. Stanfield International Airport）は、カナダのノバスコシア州ハリファックス近郊にある国際空港。ハリファックス国際空港とも呼ばれる。
+
+目次
+
+1 概要
+2 就航路線
+3 アクセス
+4 外部リンク
+5 脚注
+
+
+
+概要
+カナダ交通省が所有するこの空港は、2000年からはハリファックス国際空港公団が運営している。エア・カナダJazzとキャンジェット航空がハリファックス国際空港をハブ空港としている。カナダで7番目に乗降客の多い空港である。
+
+就航路線
+カルガリー、エドモントン、ロンドン (ヒースロー)、オタワ、モントリオール (トルドー)、トロント (ピアソン)、ボストン、ニューヨーク (ラガーディア)、ニューヨーク (ケネディ)、ニューアーク、シカゴ (オヘア)、シドニー、フランクフルト、ロンドン (ガトウィック)、サングスタ、アトランタ、レイキャヴィーク、デトロイト、バンクーバー、ワシントン (ダレス)、ハミルトン、バミューダ、カンクン、カヨココ、フォートマクマレー、オルギン、オーランド、プエルトプラタ、プンタ・カーナ、セントジョン、セントジョンズ、バラデロ、シャーロットタウン、ディアレイク、フレデリクトン、ガンダー、グースベイ、ラ・ロマーナ、セントピーターズバーグ／クリアウォーター。
+
+アクセス
+　ハリファックス市内とはMetro Xと呼ばれる路線バスの 320 系統で、41分から49分で結ばれている。時間帯により30分から1時間に1本(週末は1時間に1本のみ)。片道大人$3.25、子供と年配者$2.50であるが、おつりがでないので、乗る前に用意しておく必要がある。空港内にはゲームセンターがあり、両替機が利用出来る。
+空港側乗り場は、ターミナルから駐車場ビルへの通路を通り外に出て左手にバス停がある。
+市内側乗り場は、Scotia SquareのAlbemarle通り側(シタデル側）にバス停がある。
+
+外部リンク
+空港の公式サイト（英語）。
+Metro Xのサイト（英語）。時刻表等がある。
+
+脚注
+
+
+^ Airport Divestiture Status Report
+
+^ Total aircraft movements by class of operation — NAV CANADA towers
+
+^ Halifax Passenger Statistics
+
+
+表話編歴空港情報 (ICAO：CYHZ)空港概要
+ worldaerodata.com
+ Great Circle Mapper
+ FlightAware
+ SkyVector気象情報
+ 定時航空気象 (METAR)
+ 飛行用飛行場予報 (TAF)
+ 定時航空気象 (NOAA/NWS)その他
+ 航空図 (SkyVector)
+ 航空便追跡 (FlightAware)
+
+執筆の途中です
+この項目は、空港・飛行場に関連した書きかけの項目です。この項目を加筆・訂正などしてくださる協力者を求めています（ポータル 航空 / プロジェクト 航空 / プロジェクト 空港・飛行場）。
+
+
+
+
+
+
+					
+						「http://139.59.90.173/index.php?title=ハリファックス・ロバート・L・スタンフィールド国際空港&oldid=617884」から取得					
+				カテゴリ: スクリプトエラーがあるページ壊れたファイルへのリンクがあるページウィキデータにない座標空港スタブノバスコシア州の空港ハリファックス人名空港				
+							
+		
+		
+			案内メニュー
+
+			
+									
+						個人用ツール
+						
+							ログイン						
+					
+									
+										
+						名前空間
+						
+															ページ
+															ノート
+													
+					
+										
+												
+							変種
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						表示
+						
+															閲覧
+															ソースを表示
+															履歴表示
+													
+					
+										
+						その他
+
+						
+							
+															
+						
+					
+										
+						
+							検索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			案内
+
+			
+									
+						メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)					
+							
+		
+			
+			ヘルプ
+
+			
+									
+						ヘルプ井戸端お知らせバグの報告sitesupportウィキペディアに関するお問い合わせ					
+							
+		
+			
+			ツール
+
+			
+									
+						リンク元関連ページの更新状況特別ページ印刷用バージョンこの版への固定リンクページ情報このページを引用					
+							
+		
+			
+			他言語版
+
+			
+									
+											
+				リンクを追加			
+		
+				
+		
+		
+							
+											 最終更新 2016年8月21日 (日) 14:27 （日時は個人設定で未設定ならばUTC）。
+									
+							
+											プライバシー・ポリシー
+											ウィキペディアについて
+											免責事項
+									
+										
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.407","walltime":"3.948","ppvisitednodes":{"value":961,"limit":1000000},"ppgeneratednodes":{"value":8320,"limit":1000000},"postexpandincludesize":{"value":45043,"limit":2097152},"templateargumentsize":{"value":6563,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"entityaccesscount":{"value":0,"limit":250},"timingprofile":["100.00% 3065.415      1 -total"," 66.65% 2043.228      1 テンプレート:Infobox_空港"," 61.05% 1871.403      1 テンプレート:Infobox"," 26.97%  826.848      1 テンプレート:Airport-info"," 25.44%  779.695      1 テンプレート:Navbox"," 22.54%  690.792      1 テンプレート:Location_map"," 21.98%  673.890     12 テンプレート:Ifempty","  7.40%  226.699      1 テンプレート:Coord","  3.65%  111.962      1 テンプレート:Reflist","  2.69%   82.317      1 テンプレート:Airport-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7.000"},"limitreport-virtmemusage":{"value":10235904,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20180702191246","ttl":86400,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":5184});});
+	
+
