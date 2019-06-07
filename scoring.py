@@ -57,7 +57,7 @@ def liner2dict(one_liner_dict):
     全ての属性名のリストを返します。
     """
     id_dict = defaultdict(lambda:defaultdict(lambda:[]))
-    html, plane = False, False
+    html, plain = False, False
     attributes = set()
     for line in one_liner_dict:
         page_id = line["page_id"]
@@ -66,11 +66,11 @@ def liner2dict(one_liner_dict):
         #html_offsetを持っていればhtmlフラグを立てる
         if not html and line.get("html_offset") is not None:
             html = True
-        #text_offsetを持っていればplaneフラグを立てる
-        if not plane and line.get("text_offset") is not None:
-            plane = True
+        #text_offsetを持っていればplainフラグを立てる
+        if not plain and line.get("text_offset") is not None:
+            plain = True
         id_dict[page_id][name].append(line)
-    return id_dict, html, plane, list(attributes)
+    return id_dict, html, plain, list(attributes)
     
 def clean(id_dict, offset_type):
     """
@@ -217,18 +217,18 @@ def print_score(score):
                                          item_["precision"],
                                          item_["recall"],
                                          item_["F1"]))
-def get_score(answer, result, target = None,html_path = None, plane_path = None, error_path = None, score_path = None):
+def get_score(answer, result, target = None,html_path = None, plain_path = None, error_path = None, score_path = None):
     """
     スコアを計算します。
     引数
-      answer, result ,target(任意) ,html_path(任意) ,plane_path(任意)
+      answer, result ,target(任意) ,html_path(任意) ,plain_path(任意)
         answer : 正答のリスト(ワンライナーjsonをリストとして読み込んだものと等価)
                  pathでも可
         result : システム結果のリスト
                  pathでも可
         target : 採点の対象とするpage_idのリスト(入力しない場合はresultに含まれるpage_idが対象になります。)
         html_path : HTMLファイルの場所(入力するとオフセットが合っているかを確認します)
-        plane_path : プレーンテキストファイルの場所(同上)
+        plain_path : プレーンテキストファイルの場所(同上)
         error_path : エラーログを指定したpathに書き出します。(任意)
         score_path : スコアログを指定したpathに書き出します。(任意)
     戻り値
@@ -254,7 +254,7 @@ def get_score(answer, result, target = None,html_path = None, plane_path = None,
 
     #辞書形式に変換
     answer, _, _, attributes = liner2dict(answer)
-    result, html_flag, plane_flag, _ = liner2dict(result)
+    result, html_flag, plain_flag, _ = liner2dict(result)
 
     #採点対象のpage_idを取得
     if target is None:
@@ -263,8 +263,8 @@ def get_score(answer, result, target = None,html_path = None, plane_path = None,
     if __name__ == "__main__":
         print("Number of scoring targets : {}".format(len(target)))
         print("Target : {}".format( ("HTML" if html_flag else "")
-                                    + (" & " if html_flag & plane_flag else "")
-                                    + ("Plane" if plane_flag else "")))
+                                    + (" & " if html_flag & plain_flag else "")
+                                    + ("Plane" if plain_flag else "")))
     
     score = {}
     error = {}
@@ -277,12 +277,12 @@ def get_score(answer, result, target = None,html_path = None, plane_path = None,
             if __name__ == "__main__":
                 print("HTML annotation errors : {}".format(len(error["html"])))
     
-    if plane_flag:
+    if plain_flag:
         #スコアの計算
         score["text"] = scoring(answer,result, target, attributes,"text_offset")
-        if plane_path is not None:
+        if plain_path is not None:
             #オフセットが合っているか確認
-            error["text"] = checker(plane_path , result, "txt")
+            error["text"] = checker(plain_path , result, "txt")
             if __name__ == "__main__":
                 print("Text annotation errors : {}".format(len(error["text"])))
 
@@ -293,7 +293,7 @@ def get_score(answer, result, target = None,html_path = None, plane_path = None,
         #スコアの書き出し
         out_score(score_path, score)
 
-    if not error:   #オフセットの確認を行わない場合(html or planeのパスが指定されていない)
+    if not error:   #オフセットの確認を行わない場合(html or plainのパスが指定されていない)
         return score
 
     if error_path is not None:
@@ -315,4 +315,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plane_path = args.text, error_path = args.error, score_path = args.score)
+    score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plain_path = args.text, error_path = args.error, score_path = args.score)
