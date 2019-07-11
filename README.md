@@ -42,7 +42,7 @@ from shinra_scorer_2019 import get_score
 score = get_score(answer, result ,target = target)
 
 #オフセットズレの確認をする場合
-score, error = get_score(answer, result, target = target, html_path = html, plane_path = text)
+score, error = get_score(answer, result, target = target, html_path = html, plain_path = text)
 ~~~
 answer : 正答ワンライナーjsonのパス(listとして読み込んだデータでも可)  
 result : システム結果ワンライナーjsonのパス(listとして読み込んだデータでも可)  
