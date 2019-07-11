@@ -86,7 +86,7 @@ if __name__ == "__main__":
     result : システム結果ワンライナーjsonのパス(ワンライナーjsonを1行ずつ読み込んでリストに格納したデータでも可) 
     target : 採点対象のpage_idを列挙したcsvファイルのパス(listでも可)  
     html_path : htmlファイルが格納されたフォルダのパス  
-    text_path : textファイルが格納されたフォルダのパス
+    plain_path : textファイルが格納されたフォルダのパス
     """
     score,error = get_score(answer, result, target = target, html_path = HTML_PATH, plain_path = PLAIN_PATH)
     #パスでも可
