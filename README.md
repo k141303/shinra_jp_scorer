@@ -24,25 +24,25 @@ python3 scoring.py [正答のワンライナーjsonのパス] \
 こんな感じです。  
 dataset下に簡易なデータが用意してあります。試しに実行してみてください。
 ~~~bash
-python3 scoring.py dataset/Airport_Mini_Answer.json \
-                   dataset/Airport_Dummy_Result.json \
-                   --html dataset/Airport_HTML \
-                   --text dataset/Airport_TEXT \
-                   --target dataset/target.csv \
-                   --error error \
-                   --score score
+python3 shinra_scorer_2019 shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
+                           shinra_scorer_2019/dataset/Airport_Dummy_Result.json \
+                           --html shinra_scorer_2019/dataset/Airport_HTML \
+                           --text shinra_scorer_2019/dataset/Airport_TEXT \
+                           --target shinra_scorer_2019/dataset/target.csv \
+                           --error error \
+                           --score score
 ~~~
 
   
 ## Pythonモジュールとして呼び出す
 ~~~Python
-import score
+from shinra_scorer_2019 import get_score
 
 #オフセットズレの確認をしない場合
-score = get_score(args.answer, args.result ,target = args.target)
+score = get_score(answer, result ,target = target)
 
 #オフセットズレの確認をする場合
-score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plane_path = args.text)
+score, error = get_score(answer, result, target = target, html_path = html, plane_path = text)
 ~~~
 answer : 正答ワンライナーjsonのパス(listとして読み込んだデータでも可)  
 result : システム結果ワンライナーjsonのパス(listとして読み込んだデータでも可)  
