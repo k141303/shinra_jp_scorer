@@ -36,6 +36,8 @@ python3 shinra_scorer_2019 shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
   
 ## Pythonモジュールとして呼び出す
 
+以下のようにPythonモジュールとして呼び出して使うこともできます。
+
 ~~~Python:test.py
 import json
 
@@ -72,7 +74,7 @@ if __name__ == "__main__":
     print("ERROR:{}".format(error))
 ~~~
 
-以下のようにダウンロードしたこのモジュールと同じ階層において
+上記コードを以下のようにダウンロードしたこのモジュールと同じ階層において
 
 ~~~
 shinra_scorer_2019/
