@@ -274,7 +274,7 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
         if html_path is not None:
             #オフセットが合っているか確認
             error["html"] = checker(html_path , result, "html")
-            if __name__ == "__main__":
+            if __name__ == "scoring":
                 print("HTML annotation errors : {}".format(len(error["html"])))
 
     if plain_flag:
@@ -283,10 +283,10 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
         if plain_path is not None:
             #オフセットが合っているか確認
             error["text"] = checker(plain_path , result, "txt")
-            if __name__ == "__main__":
+            if __name__ == "scoring":
                 print("Text annotation errors : {}".format(len(error["text"])))
 
-    if __name__ == "__main__":
+    if __name__ == "scoring":
         print_score(score)
 
     if score_path is not None:
