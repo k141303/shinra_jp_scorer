@@ -43,7 +43,14 @@ python3 shinra_scorer_2019 shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
   
 ## Pythonモジュールとして呼び出す
 
-以下のようにPythonモジュールとして呼び出して使うこともできます。
+以下のようにコードをshinra_scorer_2019と同じ階層においてください。
+
+~~~
+shinra_scorer_2019/
+test.py
+~~~
+
+以下のようにimportすることでモジュールとして使用できます。
 
 ~~~
 from shinra_scorer_2019 import get_score
@@ -87,17 +94,4 @@ if __name__ == "__main__":
 
     print("SCORE:{}".format(score))
     print("ERROR:{}".format(error))
-~~~
-
-上記コードを以下のようにダウンロードしたこのモジュールと同じ階層において
-
-~~~
-shinra_scorer_2019/
-test.py
-~~~
-
-以下コマンドで実行してみてください。
-
-~~~
-python3 test.py
 ~~~
