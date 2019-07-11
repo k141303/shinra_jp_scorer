@@ -16,7 +16,7 @@ def get_wiki(path,page_id,extension = "txt"):
             return f.read()
     except FileNotFoundError:
         return None
-        
+
 #targetのリストを取得
 def get_target(path):
     target = []
@@ -32,7 +32,7 @@ def out_csv(path, tables, name):
     """
     if not os.path.exists(path):
         os.mkdir(path)
-    for offset_type,table in tables.items(): 
+    for offset_type,table in tables.items():
         with open("{}/{}_{}.csv".format(path, offset_type, name), "w") as f:
             writer = csv.writer(f, lineterminator="\n") # 改行コード（\n）を指定しておく
             writer.writerows(table) # 2次元配列も書き込める
@@ -71,7 +71,7 @@ def liner2dict(one_liner_dict):
             plain = True
         id_dict[page_id][name].append(line)
     return id_dict, html, plain, list(attributes)
-    
+
 def clean(id_dict, offset_type):
     """
     採点のためにid_dict上の不要な情報の削除
@@ -89,7 +89,7 @@ def clean(id_dict, offset_type):
                 )
                 cleaned[page_id][attribute].append(offset_tuple)
     return cleaned
-    
+
 def calc_score(count):
     """
     TP, FP, FNから再現率、精度、F値を計算
@@ -156,7 +156,7 @@ def scoring(answer, result, target, attributes, offset_type):
         for key,count in item.items():
             total[key].append(count)
     score["micro_ave"] = calc_score({key:sum(item) for key,item in total.items()})
-    
+
     return score
 
 def diff(text,offsets,offset_type):
@@ -249,7 +249,7 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
         if target[0] == "[":
             target = json_loads(target)
         else:
-            target = get_target(target)    
+            target = get_target(target)
         target = [str(t) for t in target]
 
     #辞書形式に変換
@@ -259,24 +259,24 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
     #採点対象のpage_idを取得
     if target is None:
         target = list(result.keys())
-    
+
     if __name__ == "__main__":
         print("Number of scoring targets : {}".format(len(target)))
         print("Target : {}".format( ("HTML" if html_flag else "")
                                     + (" & " if html_flag & plain_flag else "")
                                     + ("Plane" if plain_flag else "")))
-    
+
     score = {}
     error = {}
     if html_flag:
         #スコアの計算
         score["html"] = scoring(answer, result, target, attributes, "html_offset")
-        if html_path is not None:   
+        if html_path is not None:
             #オフセットが合っているか確認
             error["html"] = checker(html_path , result, "html")
             if __name__ == "__main__":
                 print("HTML annotation errors : {}".format(len(error["html"])))
-    
+
     if plain_flag:
         #スコアの計算
         score["text"] = scoring(answer,result, target, attributes,"text_offset")
@@ -301,18 +301,3 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
         out_csv(error_path, error, "error_log")
 
     return score, error
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Shinra scoring program')
-    parser.add_argument('answer', help='Answer path')
-    parser.add_argument('result', help='System result path')
-    parser.add_argument('--html', help='Html folder path')
-    parser.add_argument('--text', help='Plane text folder path')
-    parser.add_argument('--target', help='Scoring target id path')
-    parser.add_argument('--error', help='Error log output path')
-    parser.add_argument('--score', help='Score output path')
-   
-
-    args = parser.parse_args()
-
-    score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plain_path = args.text, error_path = args.error, score_path = args.score)
