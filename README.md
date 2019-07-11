@@ -22,6 +22,9 @@ python3 scoring.py [正答のワンライナーjsonのパス] \
 --score [スコアを書き出すフォルダパス](スコアを書き出したい場合に指定)
 ~~~
 こんな感じです。  
+
+## 使用例
+
 dataset下に簡易なデータが用意してあります。試しに実行してみてください。
 ~~~bash
 python3 shinra_scorer_2019 shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
@@ -37,6 +40,14 @@ python3 shinra_scorer_2019 shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
 ## Pythonモジュールとして呼び出す
 
 以下のようにPythonモジュールとして呼び出して使うこともできます。
+
+~~~
+from shinra_scorer_2019 import get_score
+~~~
+
+## 使用例
+
+以下のように使います。
 
 ~~~Python:test.py
 import json
