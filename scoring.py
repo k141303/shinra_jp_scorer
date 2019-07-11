@@ -264,7 +264,7 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
         print("Number of scoring targets : {}".format(len(target)))
         print("Target : {}".format( ("HTML" if html_flag else "")
                                     + (" & " if html_flag & plain_flag else "")
-                                    + ("Plane" if plain_flag else "")))
+                                    + ("PLAIN" if plain_flag else "")))
 
     score = {}
     error = {}
