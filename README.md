@@ -10,8 +10,8 @@ html_offset/text_offsetのそれぞれで採点を行います。
 
 ## 使い方
 ~~~bash
-python3 scoring.py [正答のワンライナーjsonのパス] \
-                   [システム結果のワンライナーjsonのパス]
+python3 shinra_scorer_2019 [正答のワンライナーjsonのパス] \
+                           [システム結果のワンライナーjsonのパス]
 ~~~
 以下はオプション引数
 ~~~
