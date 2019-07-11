@@ -88,7 +88,11 @@ if __name__ == "__main__":
     html_path : htmlファイルが格納されたフォルダのパス  
     plain_path : textファイルが格納されたフォルダのパス
     """
-    score,error = get_score(answer, result, target = target, html_path = HTML_PATH, plain_path = PLAIN_PATH)
+    score,error = get_score(answer, 
+                            result, 
+                            target = target, 
+                            html_path = HTML_PATH, 
+                            plain_path = PLAIN_PATH)
     #パスでも可
     #score,error = get_score(ANSWER_PATH, RESULT_PATH, target = target, html_path = HTML_PATH, plain_path = PLAIN_PATH)
 
