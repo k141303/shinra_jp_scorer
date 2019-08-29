@@ -258,7 +258,7 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
 
     #採点対象のpage_idを取得
     if target is None:
-        target = list(result.keys())
+        target = list(answer.keys())
 
     if __name__ == "__main__":
         print("Number of scoring targets : {}".format(len(target)))
