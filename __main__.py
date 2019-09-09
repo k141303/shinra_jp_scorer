@@ -15,4 +15,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    score, error = get_score(args.answer, args.result, target = args.target, html_path = args.html, plain_path = args.text, error_path = args.error, score_path = args.score)
+    get_score(args.answer, args.result, target = args.target, html_path = args.html, plain_path = args.text, error_path = args.error, score_path = args.score)
