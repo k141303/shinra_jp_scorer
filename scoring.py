@@ -1,3 +1,4 @@
+
 import json
 import csv
 import argparse
@@ -165,7 +166,7 @@ def diff(text,offsets,offset_type):
     抽出されたテキストと保持しているテキストを比較
     違う場合はエラーログで返す
     """
-    splitext = text.splitlines(True)
+    splitext = text.split("\n")
     error = []
     for offset in offsets:
         accum = ""
@@ -173,6 +174,8 @@ def diff(text,offsets,offset_type):
             sol,eol = 0,len(splitext[line_id])
             if idx == 0:
                 sol = offset[offset_type]["start"]["offset"]
+            else:
+                accum += "\n"
             if idx == offset[offset_type]["end"]["line_id"] - offset[offset_type]["start"]["line_id"]:
                 eol = offset[offset_type]["end"]["offset"]
             accum += splitext[line_id][sol:eol]
