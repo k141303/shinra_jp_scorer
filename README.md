@@ -124,8 +124,8 @@ if __name__ == "__main__":
     #score,error = get_score(ANSWER_PATH, RESULT_PATH, target = target, html_path = HTML_PATH, plain_path = PLAIN_PATH)
 
     #スコアだけが欲しい場合は以下
-    score = get_score(answer, 
-                      result)
+    #score = get_score(answer, 
+    #                  result)
                       
     print("SCORE:{}".format(score))
     print("ERROR:{}".format(error))
