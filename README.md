@@ -40,8 +40,8 @@ html_offset/text_offsetのそれぞれで採点を行います。
 以下のように答えとシステム結果を渡すことで採点することができます。
 
 ~~~bash
-python3 shinra_scorer_2019 [正答のワンライナーjsonのパス] \
-                           [システム結果のワンライナーjsonのパス]
+python3 shinra_jp_scorer [正答のワンライナーjsonのパス] \
+                         [システム結果のワンライナーjsonのパス]
 ~~~
 
 以下はオプション引数
@@ -58,13 +58,13 @@ python3 shinra_scorer_2019 [正答のワンライナーjsonのパス] \
 
 dataset下に簡易なデータが用意してあります。試しに実行してみてください。
 ~~~bash
-python3 shinra_scorer_2019 shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
-                           shinra_scorer_2019/dataset/Airport_Dummy_Result.json \
-                           --html shinra_scorer_2019/dataset/Airport_HTML \
-                           --text shinra_scorer_2019/dataset/Airport_TEXT \
-                           --target shinra_scorer_2019/dataset/target.csv \
-                           --error error \
-                           --score score
+python3 shinra_jp_scorer shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
+                         shinra_scorer_2019/dataset/Airport_Dummy_Result.json \
+                         --html shinra_scorer_2019/dataset/Airport_HTML \
+                         --text shinra_scorer_2019/dataset/Airport_TEXT \
+                         --target shinra_scorer_2019/dataset/target.csv \
+                         --error error \
+                         --score score
 ~~~
 
   
@@ -73,14 +73,14 @@ python3 shinra_scorer_2019 shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
 以下のようにコードをshinra_scorer_2019と同じ階層においてください。
 
 ~~~
-shinra_scorer_2019/
+shinra_jp_scorer/
 test.py
 ~~~
 
 以下のようにimportすることでモジュールとして使用できます。
 
 ~~~
-from shinra_scorer_2019 import get_score
+from shinra_jp_scorer import get_score
 ~~~
 
 ## 使用例
@@ -100,7 +100,7 @@ def load_oneline_json(path):
         oneline_json_file = f.readlines()
     return [json.loads(line) for line in oneline_json_file]
 
-from shinra_scorer_2019 import get_score
+from shinra_jp_scorer import get_score
 
 if __name__ == "__main__":
     answer = load_oneline_json(ANSWER_PATH)
