@@ -90,10 +90,10 @@ from shinra_jp_scorer import get_score
 ~~~Python:test.py
 import json
 
-RESULT_PATH = "shinra_scorer_2019/dataset/Airport_Dummy_Result.json"
-ANSWER_PATH = "shinra_scorer_2019/dataset/Airport_Mini_Answer.json"
-HTML_PATH = "shinra_scorer_2019/dataset/Airport_HTML"
-PLAIN_PATH = "shinra_scorer_2019/dataset/Airport_TEXT"
+RESULT_PATH = "shinra_jp_scorer/dataset/Airport_Dummy_Result.json"
+ANSWER_PATH = "shinra_jp_scorer/dataset/Airport_Mini_Answer.json"
+HTML_PATH = "shinra_jp_scorer/dataset/Airport_HTML"
+PLAIN_PATH = "shinra_jp_scorer/dataset/Airport_TEXT"
 
 def load_oneline_json(path):
     with open(path , "r") as f:
