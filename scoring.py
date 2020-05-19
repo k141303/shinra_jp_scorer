@@ -23,7 +23,7 @@ def get_target(path):
     with open(path, "r", encoding = "utf_8") as f:
         reader = csv.reader(f)
         for row in reader:
-            target += row
+            target += str(row)
     return target
 
 def out_csv(path, tables, name):
@@ -60,7 +60,7 @@ def liner2dict(one_liner_dict):
     html, plain = False, False
     attributes = set()
     for line in one_liner_dict:
-        page_id = line["page_id"]
+        page_id = str(line["page_id"])
         name = line["attribute"]
         attributes.add(name)
         #html_offsetを持っていればhtmlフラグを立てる
