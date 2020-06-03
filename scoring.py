@@ -4,6 +4,14 @@ import argparse
 import os
 from collections import defaultdict
 
+#属性名の修正リスト(shinra2020現在)
+REPLACE_LIST = {
+    "1.6.4.2":{"軍備":"DEL"}, #Facility:Castle
+    "1.6.4.15":{"閉館年":"閉園年"}, #Facility:Zoo
+    "1.1":{"職業":"地位職業"}, #JP-5:Person
+    "1.6.6.0":{"停車場名":"停車場"} #Facility:Line_Other
+}
+
 #アノテーション取得
 def get_annotation(path):
     with open(path ,"r", encoding = "utf_8") as f:
@@ -23,7 +31,7 @@ def get_target(path):
     with open(path, "r", encoding = "utf_8") as f:
         reader = csv.reader(f)
         for row in reader:
-            target += str(row)
+            target += row
     return target
 
 def out_csv(path, tables, name):
@@ -50,7 +58,32 @@ def out_score(path, score):
         tables[offset_type] = table
     out_csv(path, tables, "score")
 
-def liner2dict(one_liner_dict):
+def get_ene(one_liner_dict):
+    """
+    データのeneを特定
+    """
+    enes = set()
+    for line in one_liner_dict:
+        ene = line.get("ENE")
+        if ene is not None:
+            enes.add(ene)
+
+    #1つ以上のENEが含まれる場合、もしくは1つも含まれない場合にエラー
+    if len(enes) != 1:
+        raise Exception("The test data must contain one type of ENE.")
+
+    return list(enes)[0]
+
+def attribute_corrector(ene, attr):
+    """
+    バージョン間での属性名の統一(修正)
+    eneはカテゴリー特定のために必要
+    """
+    attr = attr.translate(str.maketrans({chr(0x0021 + i): chr(0xFF01 + i) for i in range(94)}))
+    attr = REPLACE_LIST.get(ene, {}).get(attr, attr)
+    return attr
+
+def liner2dict(one_liner_dict, ene):
     """
     ワンライナーjsonをpage_idと属性名で整理した辞書に変換します。
     同時にHTML、プレーンテキストのどちらのオフセットを保持しているかのフラグ、
@@ -61,16 +94,21 @@ def liner2dict(one_liner_dict):
     attributes = set()
     for line in one_liner_dict:
         page_id = str(line["page_id"])
-        name = line["attribute"]
-        attributes.add(name)
+
+        attribute = line["attribute"]
+        attribute = attribute_corrector(ene, attribute)
+        attributes.add(attribute)
+
         #html_offsetを持っていればhtmlフラグを立てる
         if not html and line.get("html_offset") is not None:
             html = True
         #text_offsetを持っていればplainフラグを立てる
         if not plain and line.get("text_offset") is not None:
             plain = True
-        id_dict[page_id][name].append(line)
-    return id_dict, html, plain, list(attributes)
+
+        id_dict[page_id][attribute].append(line)
+
+    return id_dict, html, plain, sorted(attributes)
 
 def clean(id_dict, offset_type):
     """
@@ -107,6 +145,9 @@ def calc_macro(score):
     """
     属性名ごとのスコアからマクロ平均を計算
     """
+    if len(score) == 0:
+        return {"recall":0, "precision":0, "F1":0}
+
     total = defaultdict(lambda:[])
     for item in score.values():
         for indicator, num in item.items():
@@ -116,6 +157,19 @@ def calc_macro(score):
         if len(item) == 0:macro[indicator] = 0
         else:macro[indicator] = sum(item)/len(item)
     return macro
+
+def calc_micro(counter):
+    """
+    属性名ごとのTP,FN,FPからマクロ平均を計算
+    """
+    if len(counter) == 0:
+        return {"recall":0, "precision":0, "F1":0}
+
+    total = defaultdict(lambda:[])
+    for item in counter.values():
+        for key,count in item.items():
+            total[key].append(count)
+    return calc_score({key:sum(item) for key,item in total.items()})
 
 def scoring(answer, result, target, attributes, offset_type):
     """
@@ -151,11 +205,7 @@ def scoring(answer, result, target, attributes, offset_type):
     score["macro_ave"] = calc_macro(score)
 
     #マイクロ平均を計算
-    total = defaultdict(lambda:[])
-    for item in counter.values():
-        for key,count in item.items():
-            total[key].append(count)
-    score["micro_ave"] = calc_score({key:sum(item) for key,item in total.items()})
+    score["micro_ave"] = calc_micro(counter)
 
     return score
 
@@ -217,6 +267,7 @@ def print_score(score):
                                          item_["precision"],
                                          item_["recall"],
                                          item_["F1"]))
+
 def get_score(answer, result, target = None,html_path = None, plain_path = None, error_path = None, score_path = None):
     """
     スコアを計算します。
@@ -250,11 +301,15 @@ def get_score(answer, result, target = None,html_path = None, plain_path = None,
             target = json_loads(target)
         else:
             target = get_target(target)
+
         target = [str(t) for t in target]
 
-    #辞書形式に変換
-    answer, _, _, attributes = liner2dict(answer)
-    result, html_flag, plain_flag, _ = liner2dict(result)
+    #正答データのeneを取得
+    ene = get_ene(answer)
+
+    #辞書形式に変換(+属性名の統一・修正)
+    answer, _, _, attributes = liner2dict(answer, ene)
+    result, html_flag, plain_flag, _ = liner2dict(result, ene)
 
     #採点対象のpage_idを取得
     if target is None:
