@@ -58,11 +58,11 @@ python3 shinra_jp_scorer [正答のワンライナーjsonのパス] \
 
 dataset下に簡易なデータが用意してあります。試しに実行してみてください。
 ~~~bash
-python3 shinra_jp_scorer shinra_scorer_2019/dataset/Airport_Mini_Answer.json \
-                         shinra_scorer_2019/dataset/Airport_Dummy_Result.json \
-                         --html shinra_scorer_2019/dataset/Airport_HTML \
-                         --text shinra_scorer_2019/dataset/Airport_TEXT \
-                         --target shinra_scorer_2019/dataset/target.csv \
+python3 shinra_jp_scorer shinra_jp_scorer/dataset/Airport_Mini_Answer.json \
+                         shinra_jp_scorer/dataset/Airport_Dummy_Result.json \
+                         --html shinra_jp_scorer/dataset/Airport_HTML \
+                         --text shinra_jp_scorer/dataset/Airport_TEXT \
+                         --target shinra_jp_scorer/dataset/target.csv \
                          --error error \
                          --score score
 ~~~
